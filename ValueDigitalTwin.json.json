@@ -1,0 +1,71 @@
+{
+  "@context": "dtmi:dtdl:context;3",
+  "@id": "dtmi:org:sit_solar:ValueDigitalTwin;1",
+  "@type": "Interface",
+  "displayName": "Value Digital Twin - SIT Solar Plant",
+  "description": "Models financial and ESG value of solar asset",
+  "contents": [
+    // ===== CORE FINANCIAL METRICS =====
+    {
+      "@type": "Telemetry",
+      "name": "revenue",
+      "displayName": "Hourly Revenue",
+      "schema": "double",
+      "unit": "SGD"
+    },
+    {
+      "@type": "Telemetry",
+      "name": "operational_cost",
+      "displayName": "Operational Cost",
+      "schema": "double",
+      "unit": "SGD"
+    },
+    {
+      "@type": "Property",
+      "name": "net_present_value",
+      "displayName": "Net Present Value",
+      "schema": "double",
+      "unit": "SGD",
+      "writable": true
+    },
+    
+    // ===== ESG METRICS (SINGAPORE FOCUSED) =====
+    {
+      "@type": "Property",
+      "name": "carbon_saved",
+      "displayName": "CO2 Saved",
+      "schema": "double",
+      "unit": "kg",
+      "description": "Calculated using Singapore's grid emission factor"
+    },
+    {
+      "@type": "Property",
+      "name": "social_impact_index",
+      "displayName": "Social Impact Score",
+      "schema": "integer",
+      "min": 1,
+      "max": 10
+    },
+    {
+      "@type": "Property",
+      "name": "governance_compliance",
+      "displayName": "MAS Compliance Status",
+      "schema": "string",
+      "enum": ["Compliant", "Partial", "Non-Compliant"]
+    },
+    
+    // ===== RELATIONSHIPS (CRITICAL FOR INTEGRATION) =====
+    {
+      "@type": "Relationship",
+      "name": "linked_to_system_twin",
+      "displayName": "Connected to System Twin",
+      "target": "dtmi:org:sit_solar:SystemDigitalTwin;1"
+    },
+    {
+      "@type": "Relationship",
+      "name": "influenced_by_market_twin",
+      "displayName": "Influenced by Market Twin",
+      "target": "dtmi:org:sit_solar:MarketDigitalTwin;1"
+    }
+  ]
+}
