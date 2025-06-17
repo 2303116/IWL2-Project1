@@ -1,0 +1,146 @@
+[
+  {
+    "timestamp": "2025-06-17T00:00:00Z",
+    "powerOutput": 93.7,
+    "panelTemp": 31.9,
+    "status": "operational"
+  },
+  {
+    "timestamp": "2025-06-17T01:00:00Z",
+    "powerOutput": 88.1,
+    "panelTemp": 30.6,
+    "status": "operational"
+  },
+  {
+    "timestamp": "2025-06-17T02:00:00Z",
+    "powerOutput": 91.7,
+    "panelTemp": 35.8,
+    "status": "operational"
+  },
+  {
+    "timestamp": "2025-06-17T03:00:00Z",
+    "powerOutput": 86.2,
+    "panelTemp": 37.7,
+    "status": "operational"
+  },
+  {
+    "timestamp": "2025-06-17T04:00:00Z",
+    "powerOutput": 95.5,
+    "panelTemp": 30.4,
+    "status": "operational"
+  },
+  {
+    "timestamp": "2025-06-17T05:00:00Z",
+    "powerOutput": 91.3,
+    "panelTemp": 33.1,
+    "status": "operational"
+  },
+  {
+    "timestamp": "2025-06-17T06:00:00Z",
+    "powerOutput": 87.8,
+    "panelTemp": 36.8,
+    "status": "operational"
+  },
+  {
+    "timestamp": "2025-06-17T07:00:00Z",
+    "powerOutput": 89.7,
+    "panelTemp": 39.3,
+    "status": "operational"
+  },
+  {
+    "timestamp": "2025-06-17T08:00:00Z",
+    "powerOutput": 88.6,
+    "panelTemp": 30.4,
+    "status": "operational"
+  },
+  {
+    "timestamp": "2025-06-17T09:00:00Z",
+    "powerOutput": 90.2,
+    "panelTemp": 32.3,
+    "status": "operational"
+  },
+  {
+    "timestamp": "2025-06-17T10:00:00Z",
+    "powerOutput": 99.1,
+    "panelTemp": 32.5,
+    "status": "operational"
+  },
+  {
+    "timestamp": "2025-06-17T11:00:00Z",
+    "powerOutput": 87.0,
+    "panelTemp": 34.3,
+    "status": "fault"
+  },
+  {
+    "timestamp": "2025-06-17T12:00:00Z",
+    "powerOutput": 95.1,
+    "panelTemp": 39.5,
+    "status": "operational"
+  },
+  {
+    "timestamp": "2025-06-17T13:00:00Z",
+    "powerOutput": 88.7,
+    "panelTemp": 33.8,
+    "status": "operational"
+  },
+  {
+    "timestamp": "2025-06-17T14:00:00Z",
+    "powerOutput": 99.6,
+    "panelTemp": 37.7,
+    "status": "operational"
+  },
+  {
+    "timestamp": "2025-06-17T15:00:00Z",
+    "powerOutput": 95.2,
+    "panelTemp": 30.2,
+    "status": "operational"
+  },
+  {
+    "timestamp": "2025-06-17T16:00:00Z",
+    "powerOutput": 85.0,
+    "panelTemp": 37.7,
+    "status": "operational"
+  },
+  {
+    "timestamp": "2025-06-17T17:00:00Z",
+    "powerOutput": 97.0,
+    "panelTemp": 38.6,
+    "status": "operational"
+  },
+  {
+    "timestamp": "2025-06-17T18:00:00Z",
+    "powerOutput": 95.7,
+    "panelTemp": 30.3,
+    "status": "fault"
+  },
+  {
+    "timestamp": "2025-06-17T19:00:00Z",
+    "powerOutput": 88.9,
+    "panelTemp": 34.4,
+    "status": "operational"
+  },
+  {
+    "timestamp": "2025-06-17T20:00:00Z",
+    "powerOutput": 90.2,
+    "panelTemp": 32.9,
+    "status": "operational"
+  },
+  {
+    "timestamp": "2025-06-17T21:00:00Z",
+    "powerOutput": 99.7,
+    "panelTemp": 39.7,
+    "status": "operational"
+  },
+  {
+    "timestamp": "2025-06-17T22:00:00Z",
+    "powerOutput": 97.5,
+    "panelTemp": 32.2,
+    "status": "operational"
+  },
+  {
+    "timestamp": "2025-06-17T23:00:00Z",
+    "powerOutput": 90.5,
+    "panelTemp": 32.1,
+    "status": "fault"
+  }
+]

@@ -1,0 +1,40 @@
+{
+    "@id": "dtmi:sdt:SystemDigitalTwin;1",
+    "@type": "Interface",
+    "displayName": "System Digital Twin",
+    "contents": [
+      {
+        "@type": "Telemetry",
+        "name": "powerOutput",
+        "schema": "double"
+      },
+      {
+        "@type": "Telemetry",
+        "name": "panelTemp",
+        "schema": "double"
+      },
+      {
+        "@type": "Telemetry",
+        "name": "status",
+        "schema": "string"
+      },
+      {
+        "@type": "Relationship",
+        "name": "feeds",
+        "target": "dtmi:example:MarketDigitalTwin;1"
+      },
+      {
+        "@type": "Relationship",
+        "name": "supports",
+        "target": "dtmi:example:ValueDigitalTwin;1"
+      },
+      {
+        "@type": "Relationship",
+        "name": "influencedBy",
+        "target": "dtmi:example:EnvironmentDigitalTwin;1"
+      }
+    ],
+    "@context": "dtmi:dtdl:context;2"
+  }
+  
+  
