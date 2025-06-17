@@ -66,6 +66,12 @@
       "name": "influenced_by_market_twin",
       "displayName": "Influenced by Market Twin",
       "target": "dtmi:org:sit_solar:MarketDigitalTwin;1"
+    },
+       {
+      "@type": "Relationship",
+      "name": "connected_to_environment",
+      "displayName": "Connected to Environment Twin",
+      "target": "dtmi:org:sit_solar:EnvironmentDigitalTwin;1"
     }
   ]
 }
