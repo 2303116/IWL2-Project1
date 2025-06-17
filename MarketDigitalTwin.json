@@ -1,0 +1,31 @@
+{
+  "@id": "dtmi:example:MarketDigitalTwin;1",
+  "@type": "Interface",
+  "displayName": "Market Digital Twin",
+  "contents": [
+    {
+      "@type": "Property",
+      "name": "marketPrice",
+      "schema": "double",
+      "writable": true
+    },
+    {
+      "@type": "Property",
+      "name": "demandLevel",
+      "schema": "double",
+      "writable": true
+    },
+    {
+      "@type": "Property",
+      "name": "policyFlag",
+      "schema": "string",
+      "writable": true
+    },
+    {
+      "@type": "Relationship",
+      "name": "influences",
+      "target": "dtmi:example:ValueDigitalTwin;1"
+    }
+  ],
+  "@context": "dtmi:dtdl:context;2"
+}
