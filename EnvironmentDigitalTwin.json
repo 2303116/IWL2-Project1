@@ -1,0 +1,55 @@
+{
+  "@context": ["dtmi:dtdl:context;3", "dtmi:dtdl:quantitative-types;1"],
+  "@id": "dtmi:smartfintech:EnvironmentDigitalTwin;1",
+  "@type": "Interface",
+  "displayName": "Environment Digital Twin",
+  "description": "Models environmental conditions affecting the operational performance of a solar power plant at SIT Punggol Campus.",
+  "contents": [
+    {
+      "@type": "Telemetry",
+      "name": "temperature_C",
+      "displayName": "Temperature",
+      "description": "Ambient temperature in degrees Celsius",
+      "schema": "double",
+      "unit": "degreeCelsius"
+    },
+    {
+      "@type": "Telemetry",
+      "name": "humidity_percent",
+      "displayName": "Humidity",
+      "description": "Relative humidity in percentage",
+      "schema": "double",
+      "unit": "percent"
+    },
+    {
+      "@type": "Telemetry",
+      "name": "solar_irradiance_Wm2",
+      "displayName": "Solar Irradiance",
+      "description": "Incoming solar energy per square meter",
+      "schema": "double",
+      "unit": "wattPerSquareMeter"
+    },
+    {
+      "@type": "Telemetry",
+      "name": "cloud_cover_percent",
+      "displayName": "Cloud Cover",
+      "description": "Percentage of cloud cover in the sky",
+      "schema": "double",
+      "unit": "percent"
+    },
+    {
+      "@type": "Property",
+      "name": "location",
+      "displayName": "Location",
+      "description": "Geographic location of the weather station",
+      "schema": "string"
+    },
+    {
+      "@type": "Relationship",
+      "name": "influencesSystem",
+      "displayName": "Influences System Digital Twin",
+      "description": "Links this Environment Digital Twin to the System Digital Twin it influences",
+      "target": "dtmi:smartfintech:SystemDigitalTwin;1"
+    }
+  ]
+}
