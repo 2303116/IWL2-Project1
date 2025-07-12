@@ -1,0 +1,5210 @@
+[
+    {
+        "timestamp": "2025-05-01T00:00:00",
+        "temperature_C": 31.0,
+        "humidity_percent": 85.2,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 19.5
+    },
+    {
+        "timestamp": "2025-05-01T01:00:00",
+        "temperature_C": 29.7,
+        "humidity_percent": 72.7,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 75.3
+    },
+    {
+        "timestamp": "2025-05-01T02:00:00",
+        "temperature_C": 31.3,
+        "humidity_percent": 81.9,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 39.0
+    },
+    {
+        "timestamp": "2025-05-01T03:00:00",
+        "temperature_C": 33.0,
+        "humidity_percent": 72.4,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 100.0
+    },
+    {
+        "timestamp": "2025-05-01T04:00:00",
+        "temperature_C": 29.5,
+        "humidity_percent": 73.9,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 38.7
+    },
+    {
+        "timestamp": "2025-05-01T05:00:00",
+        "temperature_C": 29.5,
+        "humidity_percent": 65.9,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 53.7
+    },
+    {
+        "timestamp": "2025-05-01T06:00:00",
+        "temperature_C": 33.2,
+        "humidity_percent": 70.8,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 80.8
+    },
+    {
+        "timestamp": "2025-05-01T07:00:00",
+        "temperature_C": 31.5,
+        "humidity_percent": 66.5,
+        "solar_irradiance_Wm2": 681.2,
+        "cloud_cover_percent": 90.1
+    },
+    {
+        "timestamp": "2025-05-01T08:00:00",
+        "temperature_C": 29.1,
+        "humidity_percent": 70.2,
+        "solar_irradiance_Wm2": 264.6,
+        "cloud_cover_percent": 91.2
+    },
+    {
+        "timestamp": "2025-05-01T09:00:00",
+        "temperature_C": 31.1,
+        "humidity_percent": 90.5,
+        "solar_irradiance_Wm2": 694.7,
+        "cloud_cover_percent": 74.2
+    },
+    {
+        "timestamp": "2025-05-01T10:00:00",
+        "temperature_C": 29.1,
+        "humidity_percent": 70.5,
+        "solar_irradiance_Wm2": 303.6,
+        "cloud_cover_percent": 70.5
+    },
+    {
+        "timestamp": "2025-05-01T11:00:00",
+        "temperature_C": 29.1,
+        "humidity_percent": 100.0,
+        "solar_irradiance_Wm2": 393.7,
+        "cloud_cover_percent": 61.9
+    },
+    {
+        "timestamp": "2025-05-01T12:00:00",
+        "temperature_C": 30.5,
+        "humidity_percent": 84.9,
+        "solar_irradiance_Wm2": 649.3,
+        "cloud_cover_percent": 65.6
+    },
+    {
+        "timestamp": "2025-05-01T13:00:00",
+        "temperature_C": 26.2,
+        "humidity_percent": 81.8,
+        "solar_irradiance_Wm2": 408.7,
+        "cloud_cover_percent": 39.0
+    },
+    {
+        "timestamp": "2025-05-01T14:00:00",
+        "temperature_C": 26.6,
+        "humidity_percent": 71.4,
+        "solar_irradiance_Wm2": 346.8,
+        "cloud_cover_percent": 33.6
+    },
+    {
+        "timestamp": "2025-05-01T15:00:00",
+        "temperature_C": 28.9,
+        "humidity_percent": 87.0,
+        "solar_irradiance_Wm2": 374.4,
+        "cloud_cover_percent": 49.9
+    },
+    {
+        "timestamp": "2025-05-01T16:00:00",
+        "temperature_C": 28.0,
+        "humidity_percent": 74.2,
+        "solar_irradiance_Wm2": 374.3,
+        "cloud_cover_percent": 46.6
+    },
+    {
+        "timestamp": "2025-05-01T17:00:00",
+        "temperature_C": 30.6,
+        "humidity_percent": 81.2,
+        "solar_irradiance_Wm2": 99.3,
+        "cloud_cover_percent": 40.9
+    },
+    {
+        "timestamp": "2025-05-01T18:00:00",
+        "temperature_C": 28.2,
+        "humidity_percent": 100.0,
+        "solar_irradiance_Wm2": 638.9,
+        "cloud_cover_percent": 63.9
+    },
+    {
+        "timestamp": "2025-05-01T19:00:00",
+        "temperature_C": 27.2,
+        "humidity_percent": 79.0,
+        "solar_irradiance_Wm2": 120.9,
+        "cloud_cover_percent": 69.1
+    },
+    {
+        "timestamp": "2025-05-01T20:00:00",
+        "temperature_C": 32.9,
+        "humidity_percent": 91.5,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 51.8
+    },
+    {
+        "timestamp": "2025-05-01T21:00:00",
+        "temperature_C": 29.5,
+        "humidity_percent": 73.0,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 79.6
+    },
+    {
+        "timestamp": "2025-05-01T22:00:00",
+        "temperature_C": 30.1,
+        "humidity_percent": 79.7,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 27.2
+    },
+    {
+        "timestamp": "2025-05-01T23:00:00",
+        "temperature_C": 27.2,
+        "humidity_percent": 97.7,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 46.1
+    },
+    {
+        "timestamp": "2025-05-02T00:00:00",
+        "temperature_C": 28.9,
+        "humidity_percent": 73.7,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 35.7
+    },
+    {
+        "timestamp": "2025-05-02T01:00:00",
+        "temperature_C": 30.2,
+        "humidity_percent": 98.1,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 12.7
+    },
+    {
+        "timestamp": "2025-05-02T02:00:00",
+        "temperature_C": 27.7,
+        "humidity_percent": 87.1,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 48.3
+    },
+    {
+        "timestamp": "2025-05-02T03:00:00",
+        "temperature_C": 30.8,
+        "humidity_percent": 74.4,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 47.6
+    },
+    {
+        "timestamp": "2025-05-02T04:00:00",
+        "temperature_C": 28.8,
+        "humidity_percent": 86.3,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 80.3
+    },
+    {
+        "timestamp": "2025-05-02T05:00:00",
+        "temperature_C": 29.4,
+        "humidity_percent": 89.7,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 62.6
+    },
+    {
+        "timestamp": "2025-05-02T06:00:00",
+        "temperature_C": 28.8,
+        "humidity_percent": 86.2,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 29.5
+    },
+    {
+        "timestamp": "2025-05-02T07:00:00",
+        "temperature_C": 33.7,
+        "humidity_percent": 64.3,
+        "solar_irradiance_Wm2": 381.9,
+        "cloud_cover_percent": 87.1
+    },
+    {
+        "timestamp": "2025-05-02T08:00:00",
+        "temperature_C": 30.0,
+        "humidity_percent": 72.7,
+        "solar_irradiance_Wm2": 676.4,
+        "cloud_cover_percent": 74.4
+    },
+    {
+        "timestamp": "2025-05-02T09:00:00",
+        "temperature_C": 27.9,
+        "humidity_percent": 77.5,
+        "solar_irradiance_Wm2": 504.8,
+        "cloud_cover_percent": 61.6
+    },
+    {
+        "timestamp": "2025-05-02T10:00:00",
+        "temperature_C": 31.6,
+        "humidity_percent": 79.3,
+        "solar_irradiance_Wm2": 469.0,
+        "cloud_cover_percent": 45.5
+    },
+    {
+        "timestamp": "2025-05-02T11:00:00",
+        "temperature_C": 27.6,
+        "humidity_percent": 86.2,
+        "solar_irradiance_Wm2": 247.8,
+        "cloud_cover_percent": 30.8
+    },
+    {
+        "timestamp": "2025-05-02T12:00:00",
+        "temperature_C": 30.4,
+        "humidity_percent": 81.8,
+        "solar_irradiance_Wm2": 323.7,
+        "cloud_cover_percent": 42.6
+    },
+    {
+        "timestamp": "2025-05-02T13:00:00",
+        "temperature_C": 26.1,
+        "humidity_percent": 66.6,
+        "solar_irradiance_Wm2": 187.3,
+        "cloud_cover_percent": 71.8
+    },
+    {
+        "timestamp": "2025-05-02T14:00:00",
+        "temperature_C": 27.3,
+        "humidity_percent": 83.8,
+        "solar_irradiance_Wm2": 610.1,
+        "cloud_cover_percent": 87.7
+    },
+    {
+        "timestamp": "2025-05-02T15:00:00",
+        "temperature_C": 30.4,
+        "humidity_percent": 86.1,
+        "solar_irradiance_Wm2": 359.7,
+        "cloud_cover_percent": 80.9
+    },
+    {
+        "timestamp": "2025-05-02T16:00:00",
+        "temperature_C": 31.5,
+        "humidity_percent": 85.6,
+        "solar_irradiance_Wm2": 694.2,
+        "cloud_cover_percent": 40.2
+    },
+    {
+        "timestamp": "2025-05-02T17:00:00",
+        "temperature_C": 30.3,
+        "humidity_percent": 90.8,
+        "solar_irradiance_Wm2": 310.2,
+        "cloud_cover_percent": 27.6
+    },
+    {
+        "timestamp": "2025-05-02T18:00:00",
+        "temperature_C": 29.8,
+        "humidity_percent": 88.3,
+        "solar_irradiance_Wm2": 253.3,
+        "cloud_cover_percent": 52.8
+    },
+    {
+        "timestamp": "2025-05-02T19:00:00",
+        "temperature_C": 29.4,
+        "humidity_percent": 84.6,
+        "solar_irradiance_Wm2": 422.9,
+        "cloud_cover_percent": 14.6
+    },
+    {
+        "timestamp": "2025-05-02T20:00:00",
+        "temperature_C": 27.0,
+        "humidity_percent": 79.3,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 56.5
+    },
+    {
+        "timestamp": "2025-05-02T21:00:00",
+        "temperature_C": 28.6,
+        "humidity_percent": 63.4,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 47.0
+    },
+    {
+        "timestamp": "2025-05-02T22:00:00",
+        "temperature_C": 29.1,
+        "humidity_percent": 84.3,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 40.7
+    },
+    {
+        "timestamp": "2025-05-02T23:00:00",
+        "temperature_C": 32.1,
+        "humidity_percent": 82.1,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 18.1
+    },
+    {
+        "timestamp": "2025-05-03T00:00:00",
+        "temperature_C": 30.7,
+        "humidity_percent": 82.7,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 60.3
+    },
+    {
+        "timestamp": "2025-05-03T01:00:00",
+        "temperature_C": 26.5,
+        "humidity_percent": 67.2,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 39.3
+    },
+    {
+        "timestamp": "2025-05-03T02:00:00",
+        "temperature_C": 30.6,
+        "humidity_percent": 69.2,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 26.6
+    },
+    {
+        "timestamp": "2025-05-03T03:00:00",
+        "temperature_C": 29.2,
+        "humidity_percent": 90.5,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 0.0
+    },
+    {
+        "timestamp": "2025-05-03T04:00:00",
+        "temperature_C": 28.6,
+        "humidity_percent": 79.6,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 49.4
+    },
+    {
+        "timestamp": "2025-05-03T05:00:00",
+        "temperature_C": 31.2,
+        "humidity_percent": 86.8,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 85.4
+    },
+    {
+        "timestamp": "2025-05-03T06:00:00",
+        "temperature_C": 32.1,
+        "humidity_percent": 80.3,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 83.2
+    },
+    {
+        "timestamp": "2025-05-03T07:00:00",
+        "temperature_C": 31.9,
+        "humidity_percent": 80.3,
+        "solar_irradiance_Wm2": 877.9,
+        "cloud_cover_percent": 40.9
+    },
+    {
+        "timestamp": "2025-05-03T08:00:00",
+        "temperature_C": 28.3,
+        "humidity_percent": 89.4,
+        "solar_irradiance_Wm2": 390.7,
+        "cloud_cover_percent": 38.0
+    },
+    {
+        "timestamp": "2025-05-03T09:00:00",
+        "temperature_C": 29.4,
+        "humidity_percent": 74.8,
+        "solar_irradiance_Wm2": 394.9,
+        "cloud_cover_percent": 59.4
+    },
+    {
+        "timestamp": "2025-05-03T10:00:00",
+        "temperature_C": 30.7,
+        "humidity_percent": 81.0,
+        "solar_irradiance_Wm2": 304.7,
+        "cloud_cover_percent": 30.0
+    },
+    {
+        "timestamp": "2025-05-03T11:00:00",
+        "temperature_C": 32.0,
+        "humidity_percent": 75.4,
+        "solar_irradiance_Wm2": 194.4,
+        "cloud_cover_percent": 56.0
+    },
+    {
+        "timestamp": "2025-05-03T12:00:00",
+        "temperature_C": 29.0,
+        "humidity_percent": 75.7,
+        "solar_irradiance_Wm2": 442.1,
+        "cloud_cover_percent": 65.3
+    },
+    {
+        "timestamp": "2025-05-03T13:00:00",
+        "temperature_C": 29.6,
+        "humidity_percent": 76.9,
+        "solar_irradiance_Wm2": 267.1,
+        "cloud_cover_percent": 74.5
+    },
+    {
+        "timestamp": "2025-05-03T14:00:00",
+        "temperature_C": 27.8,
+        "humidity_percent": 82.2,
+        "solar_irradiance_Wm2": 230.4,
+        "cloud_cover_percent": 48.0
+    },
+    {
+        "timestamp": "2025-05-03T15:00:00",
+        "temperature_C": 27.6,
+        "humidity_percent": 75.2,
+        "solar_irradiance_Wm2": 654.6,
+        "cloud_cover_percent": 45.9
+    },
+    {
+        "timestamp": "2025-05-03T16:00:00",
+        "temperature_C": 31.6,
+        "humidity_percent": 92.6,
+        "solar_irradiance_Wm2": 392.9,
+        "cloud_cover_percent": 32.4
+    },
+    {
+        "timestamp": "2025-05-03T17:00:00",
+        "temperature_C": 32.7,
+        "humidity_percent": 71.1,
+        "solar_irradiance_Wm2": 412.8,
+        "cloud_cover_percent": 33.5
+    },
+    {
+        "timestamp": "2025-05-03T18:00:00",
+        "temperature_C": 29.9,
+        "humidity_percent": 78.1,
+        "solar_irradiance_Wm2": 497.7,
+        "cloud_cover_percent": 45.5
+    },
+    {
+        "timestamp": "2025-05-03T19:00:00",
+        "temperature_C": 32.0,
+        "humidity_percent": 75.6,
+        "solar_irradiance_Wm2": 269.0,
+        "cloud_cover_percent": 57.3
+    },
+    {
+        "timestamp": "2025-05-03T20:00:00",
+        "temperature_C": 30.7,
+        "humidity_percent": 94.5,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 68.3
+    },
+    {
+        "timestamp": "2025-05-03T21:00:00",
+        "temperature_C": 28.7,
+        "humidity_percent": 82.0,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 33.9
+    },
+    {
+        "timestamp": "2025-05-03T22:00:00",
+        "temperature_C": 30.7,
+        "humidity_percent": 90.3,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 79.9
+    },
+    {
+        "timestamp": "2025-05-03T23:00:00",
+        "temperature_C": 33.1,
+        "humidity_percent": 65.1,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 44.6
+    },
+    {
+        "timestamp": "2025-05-04T00:00:00",
+        "temperature_C": 29.9,
+        "humidity_percent": 82.7,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 49.6
+    },
+    {
+        "timestamp": "2025-05-04T01:00:00",
+        "temperature_C": 33.1,
+        "humidity_percent": 88.9,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 35.1
+    },
+    {
+        "timestamp": "2025-05-04T02:00:00",
+        "temperature_C": 24.8,
+        "humidity_percent": 80.8,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 1.5
+    },
+    {
+        "timestamp": "2025-05-04T03:00:00",
+        "temperature_C": 31.6,
+        "humidity_percent": 90.7,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 67.7
+    },
+    {
+        "timestamp": "2025-05-04T04:00:00",
+        "temperature_C": 30.2,
+        "humidity_percent": 74.8,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 64.7
+    },
+    {
+        "timestamp": "2025-05-04T05:00:00",
+        "temperature_C": 29.4,
+        "humidity_percent": 94.1,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 44.4
+    },
+    {
+        "timestamp": "2025-05-04T06:00:00",
+        "temperature_C": 30.2,
+        "humidity_percent": 100.0,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 51.3
+    },
+    {
+        "timestamp": "2025-05-04T07:00:00",
+        "temperature_C": 26.0,
+        "humidity_percent": 76.4,
+        "solar_irradiance_Wm2": 451.1,
+        "cloud_cover_percent": 60.3
+    },
+    {
+        "timestamp": "2025-05-04T08:00:00",
+        "temperature_C": 29.6,
+        "humidity_percent": 75.5,
+        "solar_irradiance_Wm2": 476.4,
+        "cloud_cover_percent": 18.7
+    },
+    {
+        "timestamp": "2025-05-04T09:00:00",
+        "temperature_C": 30.7,
+        "humidity_percent": 94.5,
+        "solar_irradiance_Wm2": 380.2,
+        "cloud_cover_percent": 39.4
+    },
+    {
+        "timestamp": "2025-05-04T10:00:00",
+        "temperature_C": 33.0,
+        "humidity_percent": 95.8,
+        "solar_irradiance_Wm2": 439.1,
+        "cloud_cover_percent": 65.9
+    },
+    {
+        "timestamp": "2025-05-04T11:00:00",
+        "temperature_C": 29.0,
+        "humidity_percent": 74.8,
+        "solar_irradiance_Wm2": 550.8,
+        "cloud_cover_percent": 24.9
+    },
+    {
+        "timestamp": "2025-05-04T12:00:00",
+        "temperature_C": 28.4,
+        "humidity_percent": 75.8,
+        "solar_irradiance_Wm2": 317.5,
+        "cloud_cover_percent": 55.9
+    },
+    {
+        "timestamp": "2025-05-04T13:00:00",
+        "temperature_C": 29.0,
+        "humidity_percent": 77.2,
+        "solar_irradiance_Wm2": 448.1,
+        "cloud_cover_percent": 22.9
+    },
+    {
+        "timestamp": "2025-05-04T14:00:00",
+        "temperature_C": 31.8,
+        "humidity_percent": 66.6,
+        "solar_irradiance_Wm2": 266.3,
+        "cloud_cover_percent": 59.3
+    },
+    {
+        "timestamp": "2025-05-04T15:00:00",
+        "temperature_C": 30.7,
+        "humidity_percent": 70.8,
+        "solar_irradiance_Wm2": 255.9,
+        "cloud_cover_percent": 49.3
+    },
+    {
+        "timestamp": "2025-05-04T16:00:00",
+        "temperature_C": 28.9,
+        "humidity_percent": 70.0,
+        "solar_irradiance_Wm2": 654.2,
+        "cloud_cover_percent": 17.7
+    },
+    {
+        "timestamp": "2025-05-04T17:00:00",
+        "temperature_C": 31.0,
+        "humidity_percent": 72.3,
+        "solar_irradiance_Wm2": 584.0,
+        "cloud_cover_percent": 73.3
+    },
+    {
+        "timestamp": "2025-05-04T18:00:00",
+        "temperature_C": 30.2,
+        "humidity_percent": 79.7,
+        "solar_irradiance_Wm2": 196.1,
+        "cloud_cover_percent": 35.3
+    },
+    {
+        "timestamp": "2025-05-04T19:00:00",
+        "temperature_C": 31.9,
+        "humidity_percent": 82.3,
+        "solar_irradiance_Wm2": 657.9,
+        "cloud_cover_percent": 33.8
+    },
+    {
+        "timestamp": "2025-05-04T20:00:00",
+        "temperature_C": 28.6,
+        "humidity_percent": 95.5,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 54.0
+    },
+    {
+        "timestamp": "2025-05-04T21:00:00",
+        "temperature_C": 29.3,
+        "humidity_percent": 70.0,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 73.0
+    },
+    {
+        "timestamp": "2025-05-04T22:00:00",
+        "temperature_C": 29.2,
+        "humidity_percent": 89.8,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 29.7
+    },
+    {
+        "timestamp": "2025-05-04T23:00:00",
+        "temperature_C": 27.1,
+        "humidity_percent": 77.9,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 51.2
+    },
+    {
+        "timestamp": "2025-05-05T00:00:00",
+        "temperature_C": 30.6,
+        "humidity_percent": 79.5,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 58.6
+    },
+    {
+        "timestamp": "2025-05-05T01:00:00",
+        "temperature_C": 30.5,
+        "humidity_percent": 86.7,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 63.9
+    },
+    {
+        "timestamp": "2025-05-05T02:00:00",
+        "temperature_C": 30.0,
+        "humidity_percent": 68.8,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 53.5
+    },
+    {
+        "timestamp": "2025-05-05T03:00:00",
+        "temperature_C": 29.5,
+        "humidity_percent": 83.8,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 42.7
+    },
+    {
+        "timestamp": "2025-05-05T04:00:00",
+        "temperature_C": 27.2,
+        "humidity_percent": 81.7,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 33.4
+    },
+    {
+        "timestamp": "2025-05-05T05:00:00",
+        "temperature_C": 29.2,
+        "humidity_percent": 84.9,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 51.7
+    },
+    {
+        "timestamp": "2025-05-05T06:00:00",
+        "temperature_C": 29.3,
+        "humidity_percent": 82.9,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 28.6
+    },
+    {
+        "timestamp": "2025-05-05T07:00:00",
+        "temperature_C": 28.4,
+        "humidity_percent": 100.0,
+        "solar_irradiance_Wm2": 473.1,
+        "cloud_cover_percent": 0.0
+    },
+    {
+        "timestamp": "2025-05-05T08:00:00",
+        "temperature_C": 29.7,
+        "humidity_percent": 73.6,
+        "solar_irradiance_Wm2": 389.2,
+        "cloud_cover_percent": 58.7
+    },
+    {
+        "timestamp": "2025-05-05T09:00:00",
+        "temperature_C": 30.8,
+        "humidity_percent": 74.7,
+        "solar_irradiance_Wm2": 242.4,
+        "cloud_cover_percent": 68.1
+    },
+    {
+        "timestamp": "2025-05-05T10:00:00",
+        "temperature_C": 33.8,
+        "humidity_percent": 73.8,
+        "solar_irradiance_Wm2": 549.2,
+        "cloud_cover_percent": 2.7
+    },
+    {
+        "timestamp": "2025-05-05T11:00:00",
+        "temperature_C": 30.3,
+        "humidity_percent": 74.4,
+        "solar_irradiance_Wm2": 454.1,
+        "cloud_cover_percent": 29.8
+    },
+    {
+        "timestamp": "2025-05-05T12:00:00",
+        "temperature_C": 30.5,
+        "humidity_percent": 73.6,
+        "solar_irradiance_Wm2": 198.1,
+        "cloud_cover_percent": 62.4
+    },
+    {
+        "timestamp": "2025-05-05T13:00:00",
+        "temperature_C": 29.9,
+        "humidity_percent": 91.9,
+        "solar_irradiance_Wm2": 95.3,
+        "cloud_cover_percent": 91.1
+    },
+    {
+        "timestamp": "2025-05-05T14:00:00",
+        "temperature_C": 26.2,
+        "humidity_percent": 94.2,
+        "solar_irradiance_Wm2": 209.3,
+        "cloud_cover_percent": 50.4
+    },
+    {
+        "timestamp": "2025-05-05T15:00:00",
+        "temperature_C": 29.9,
+        "humidity_percent": 74.3,
+        "solar_irradiance_Wm2": 359.8,
+        "cloud_cover_percent": 35.4
+    },
+    {
+        "timestamp": "2025-05-05T16:00:00",
+        "temperature_C": 30.1,
+        "humidity_percent": 71.7,
+        "solar_irradiance_Wm2": 446.6,
+        "cloud_cover_percent": 46.3
+    },
+    {
+        "timestamp": "2025-05-05T17:00:00",
+        "temperature_C": 34.9,
+        "humidity_percent": 84.7,
+        "solar_irradiance_Wm2": 659.4,
+        "cloud_cover_percent": 77.5
+    },
+    {
+        "timestamp": "2025-05-05T18:00:00",
+        "temperature_C": 29.6,
+        "humidity_percent": 74.5,
+        "solar_irradiance_Wm2": 351.2,
+        "cloud_cover_percent": 37.1
+    },
+    {
+        "timestamp": "2025-05-05T19:00:00",
+        "temperature_C": 30.6,
+        "humidity_percent": 86.3,
+        "solar_irradiance_Wm2": 379.7,
+        "cloud_cover_percent": 34.0
+    },
+    {
+        "timestamp": "2025-05-05T20:00:00",
+        "temperature_C": 29.9,
+        "humidity_percent": 82.0,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 40.3
+    },
+    {
+        "timestamp": "2025-05-05T21:00:00",
+        "temperature_C": 27.7,
+        "humidity_percent": 64.8,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 30.9
+    },
+    {
+        "timestamp": "2025-05-05T22:00:00",
+        "temperature_C": 32.3,
+        "humidity_percent": 95.5,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 52.5
+    },
+    {
+        "timestamp": "2025-05-05T23:00:00",
+        "temperature_C": 31.5,
+        "humidity_percent": 98.0,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 82.5
+    },
+    {
+        "timestamp": "2025-05-06T00:00:00",
+        "temperature_C": 31.6,
+        "humidity_percent": 73.9,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 56.5
+    },
+    {
+        "timestamp": "2025-05-06T01:00:00",
+        "temperature_C": 28.2,
+        "humidity_percent": 76.1,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 45.0
+    },
+    {
+        "timestamp": "2025-05-06T02:00:00",
+        "temperature_C": 32.8,
+        "humidity_percent": 82.9,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 44.2
+    },
+    {
+        "timestamp": "2025-05-06T03:00:00",
+        "temperature_C": 27.2,
+        "humidity_percent": 83.3,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 18.7
+    },
+    {
+        "timestamp": "2025-05-06T04:00:00",
+        "temperature_C": 31.2,
+        "humidity_percent": 86.6,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 67.7
+    },
+    {
+        "timestamp": "2025-05-06T05:00:00",
+        "temperature_C": 34.4,
+        "humidity_percent": 100.0,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 48.4
+    },
+    {
+        "timestamp": "2025-05-06T06:00:00",
+        "temperature_C": 28.0,
+        "humidity_percent": 78.2,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 46.4
+    },
+    {
+        "timestamp": "2025-05-06T07:00:00",
+        "temperature_C": 28.9,
+        "humidity_percent": 72.0,
+        "solar_irradiance_Wm2": 141.3,
+        "cloud_cover_percent": 100.0
+    },
+    {
+        "timestamp": "2025-05-06T08:00:00",
+        "temperature_C": 30.2,
+        "humidity_percent": 66.2,
+        "solar_irradiance_Wm2": 305.9,
+        "cloud_cover_percent": 56.0
+    },
+    {
+        "timestamp": "2025-05-06T09:00:00",
+        "temperature_C": 29.0,
+        "humidity_percent": 72.7,
+        "solar_irradiance_Wm2": 492.4,
+        "cloud_cover_percent": 35.0
+    },
+    {
+        "timestamp": "2025-05-06T10:00:00",
+        "temperature_C": 26.9,
+        "humidity_percent": 79.7,
+        "solar_irradiance_Wm2": 239.5,
+        "cloud_cover_percent": 41.5
+    },
+    {
+        "timestamp": "2025-05-06T11:00:00",
+        "temperature_C": 30.1,
+        "humidity_percent": 97.9,
+        "solar_irradiance_Wm2": 643.6,
+        "cloud_cover_percent": 73.0
+    },
+    {
+        "timestamp": "2025-05-06T12:00:00",
+        "temperature_C": 27.9,
+        "humidity_percent": 74.8,
+        "solar_irradiance_Wm2": 518.5,
+        "cloud_cover_percent": 52.3
+    },
+    {
+        "timestamp": "2025-05-06T13:00:00",
+        "temperature_C": 30.9,
+        "humidity_percent": 82.2,
+        "solar_irradiance_Wm2": 377.1,
+        "cloud_cover_percent": 21.2
+    },
+    {
+        "timestamp": "2025-05-06T14:00:00",
+        "temperature_C": 28.2,
+        "humidity_percent": 79.8,
+        "solar_irradiance_Wm2": 81.6,
+        "cloud_cover_percent": 68.4
+    },
+    {
+        "timestamp": "2025-05-06T15:00:00",
+        "temperature_C": 33.1,
+        "humidity_percent": 91.9,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 36.6
+    },
+    {
+        "timestamp": "2025-05-06T16:00:00",
+        "temperature_C": 28.4,
+        "humidity_percent": 100.0,
+        "solar_irradiance_Wm2": 281.7,
+        "cloud_cover_percent": 87.5
+    },
+    {
+        "timestamp": "2025-05-06T17:00:00",
+        "temperature_C": 29.4,
+        "humidity_percent": 74.7,
+        "solar_irradiance_Wm2": 449.7,
+        "cloud_cover_percent": 71.6
+    },
+    {
+        "timestamp": "2025-05-06T18:00:00",
+        "temperature_C": 31.6,
+        "humidity_percent": 75.1,
+        "solar_irradiance_Wm2": 333.7,
+        "cloud_cover_percent": 41.1
+    },
+    {
+        "timestamp": "2025-05-06T19:00:00",
+        "temperature_C": 27.5,
+        "humidity_percent": 90.4,
+        "solar_irradiance_Wm2": 223.8,
+        "cloud_cover_percent": 75.6
+    },
+    {
+        "timestamp": "2025-05-06T20:00:00",
+        "temperature_C": 30.5,
+        "humidity_percent": 86.8,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 51.4
+    },
+    {
+        "timestamp": "2025-05-06T21:00:00",
+        "temperature_C": 32.6,
+        "humidity_percent": 98.5,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 67.1
+    },
+    {
+        "timestamp": "2025-05-06T22:00:00",
+        "temperature_C": 26.8,
+        "humidity_percent": 85.8,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 59.7
+    },
+    {
+        "timestamp": "2025-05-06T23:00:00",
+        "temperature_C": 30.4,
+        "humidity_percent": 76.4,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 33.1
+    },
+    {
+        "timestamp": "2025-05-07T00:00:00",
+        "temperature_C": 30.5,
+        "humidity_percent": 85.9,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 37.1
+    },
+    {
+        "timestamp": "2025-05-07T01:00:00",
+        "temperature_C": 31.6,
+        "humidity_percent": 91.1,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 70.6
+    },
+    {
+        "timestamp": "2025-05-07T02:00:00",
+        "temperature_C": 27.5,
+        "humidity_percent": 88.2,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 43.3
+    },
+    {
+        "timestamp": "2025-05-07T03:00:00",
+        "temperature_C": 27.4,
+        "humidity_percent": 85.1,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 41.9
+    },
+    {
+        "timestamp": "2025-05-07T04:00:00",
+        "temperature_C": 31.0,
+        "humidity_percent": 90.7,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 30.9
+    },
+    {
+        "timestamp": "2025-05-07T05:00:00",
+        "temperature_C": 30.6,
+        "humidity_percent": 91.7,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 58.5
+    },
+    {
+        "timestamp": "2025-05-07T06:00:00",
+        "temperature_C": 30.5,
+        "humidity_percent": 93.8,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 91.3
+    },
+    {
+        "timestamp": "2025-05-07T07:00:00",
+        "temperature_C": 30.7,
+        "humidity_percent": 86.5,
+        "solar_irradiance_Wm2": 385.3,
+        "cloud_cover_percent": 28.6
+    },
+    {
+        "timestamp": "2025-05-07T08:00:00",
+        "temperature_C": 28.6,
+        "humidity_percent": 78.3,
+        "solar_irradiance_Wm2": 139.7,
+        "cloud_cover_percent": 50.5
+    },
+    {
+        "timestamp": "2025-05-07T09:00:00",
+        "temperature_C": 30.5,
+        "humidity_percent": 81.5,
+        "solar_irradiance_Wm2": 352.3,
+        "cloud_cover_percent": 78.2
+    },
+    {
+        "timestamp": "2025-05-07T10:00:00",
+        "temperature_C": 30.6,
+        "humidity_percent": 92.1,
+        "solar_irradiance_Wm2": 287.9,
+        "cloud_cover_percent": 48.4
+    },
+    {
+        "timestamp": "2025-05-07T11:00:00",
+        "temperature_C": 28.6,
+        "humidity_percent": 71.8,
+        "solar_irradiance_Wm2": 242.5,
+        "cloud_cover_percent": 59.0
+    },
+    {
+        "timestamp": "2025-05-07T12:00:00",
+        "temperature_C": 33.7,
+        "humidity_percent": 83.7,
+        "solar_irradiance_Wm2": 385.3,
+        "cloud_cover_percent": 28.8
+    },
+    {
+        "timestamp": "2025-05-07T13:00:00",
+        "temperature_C": 30.9,
+        "humidity_percent": 76.1,
+        "solar_irradiance_Wm2": 316.3,
+        "cloud_cover_percent": 58.6
+    },
+    {
+        "timestamp": "2025-05-07T14:00:00",
+        "temperature_C": 27.6,
+        "humidity_percent": 80.3,
+        "solar_irradiance_Wm2": 403.4,
+        "cloud_cover_percent": 46.3
+    },
+    {
+        "timestamp": "2025-05-07T15:00:00",
+        "temperature_C": 31.3,
+        "humidity_percent": 92.8,
+        "solar_irradiance_Wm2": 570.1,
+        "cloud_cover_percent": 69.7
+    },
+    {
+        "timestamp": "2025-05-07T16:00:00",
+        "temperature_C": 28.1,
+        "humidity_percent": 81.9,
+        "solar_irradiance_Wm2": 667.5,
+        "cloud_cover_percent": 73.7
+    },
+    {
+        "timestamp": "2025-05-07T17:00:00",
+        "temperature_C": 31.6,
+        "humidity_percent": 80.5,
+        "solar_irradiance_Wm2": 347.8,
+        "cloud_cover_percent": 100.0
+    },
+    {
+        "timestamp": "2025-05-07T18:00:00",
+        "temperature_C": 32.3,
+        "humidity_percent": 66.4,
+        "solar_irradiance_Wm2": 304.6,
+        "cloud_cover_percent": 61.6
+    },
+    {
+        "timestamp": "2025-05-07T19:00:00",
+        "temperature_C": 28.4,
+        "humidity_percent": 87.5,
+        "solar_irradiance_Wm2": 306.7,
+        "cloud_cover_percent": 56.5
+    },
+    {
+        "timestamp": "2025-05-07T20:00:00",
+        "temperature_C": 31.9,
+        "humidity_percent": 86.5,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 53.9
+    },
+    {
+        "timestamp": "2025-05-07T21:00:00",
+        "temperature_C": 30.8,
+        "humidity_percent": 100.0,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 42.9
+    },
+    {
+        "timestamp": "2025-05-07T22:00:00",
+        "temperature_C": 31.6,
+        "humidity_percent": 76.9,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 56.8
+    },
+    {
+        "timestamp": "2025-05-07T23:00:00",
+        "temperature_C": 33.8,
+        "humidity_percent": 82.2,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 44.1
+    },
+    {
+        "timestamp": "2025-05-08T00:00:00",
+        "temperature_C": 29.5,
+        "humidity_percent": 82.5,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 53.4
+    },
+    {
+        "timestamp": "2025-05-08T01:00:00",
+        "temperature_C": 28.5,
+        "humidity_percent": 95.8,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 76.4
+    },
+    {
+        "timestamp": "2025-05-08T02:00:00",
+        "temperature_C": 28.2,
+        "humidity_percent": 79.0,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 29.9
+    },
+    {
+        "timestamp": "2025-05-08T03:00:00",
+        "temperature_C": 28.4,
+        "humidity_percent": 82.8,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 72.8
+    },
+    {
+        "timestamp": "2025-05-08T04:00:00",
+        "temperature_C": 29.8,
+        "humidity_percent": 86.1,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 76.3
+    },
+    {
+        "timestamp": "2025-05-08T05:00:00",
+        "temperature_C": 30.7,
+        "humidity_percent": 81.9,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 47.6
+    },
+    {
+        "timestamp": "2025-05-08T06:00:00",
+        "temperature_C": 30.6,
+        "humidity_percent": 75.5,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 7.6
+    },
+    {
+        "timestamp": "2025-05-08T07:00:00",
+        "temperature_C": 31.7,
+        "humidity_percent": 81.9,
+        "solar_irradiance_Wm2": 102.4,
+        "cloud_cover_percent": 37.8
+    },
+    {
+        "timestamp": "2025-05-08T08:00:00",
+        "temperature_C": 30.0,
+        "humidity_percent": 90.7,
+        "solar_irradiance_Wm2": 329.7,
+        "cloud_cover_percent": 75.9
+    },
+    {
+        "timestamp": "2025-05-08T09:00:00",
+        "temperature_C": 32.9,
+        "humidity_percent": 69.7,
+        "solar_irradiance_Wm2": 255.3,
+        "cloud_cover_percent": 49.5
+    },
+    {
+        "timestamp": "2025-05-08T10:00:00",
+        "temperature_C": 29.5,
+        "humidity_percent": 81.3,
+        "solar_irradiance_Wm2": 443.9,
+        "cloud_cover_percent": 30.0
+    },
+    {
+        "timestamp": "2025-05-08T11:00:00",
+        "temperature_C": 35.4,
+        "humidity_percent": 73.0,
+        "solar_irradiance_Wm2": 576.8,
+        "cloud_cover_percent": 39.9
+    },
+    {
+        "timestamp": "2025-05-08T12:00:00",
+        "temperature_C": 31.3,
+        "humidity_percent": 92.0,
+        "solar_irradiance_Wm2": 224.8,
+        "cloud_cover_percent": 66.8
+    },
+    {
+        "timestamp": "2025-05-08T13:00:00",
+        "temperature_C": 28.3,
+        "humidity_percent": 64.8,
+        "solar_irradiance_Wm2": 199.4,
+        "cloud_cover_percent": 60.9
+    },
+    {
+        "timestamp": "2025-05-08T14:00:00",
+        "temperature_C": 27.9,
+        "humidity_percent": 74.4,
+        "solar_irradiance_Wm2": 528.6,
+        "cloud_cover_percent": 45.2
+    },
+    {
+        "timestamp": "2025-05-08T15:00:00",
+        "temperature_C": 31.0,
+        "humidity_percent": 83.8,
+        "solar_irradiance_Wm2": 368.3,
+        "cloud_cover_percent": 42.7
+    },
+    {
+        "timestamp": "2025-05-08T16:00:00",
+        "temperature_C": 29.6,
+        "humidity_percent": 95.7,
+        "solar_irradiance_Wm2": 609.9,
+        "cloud_cover_percent": 42.2
+    },
+    {
+        "timestamp": "2025-05-08T17:00:00",
+        "temperature_C": 31.4,
+        "humidity_percent": 79.3,
+        "solar_irradiance_Wm2": 437.1,
+        "cloud_cover_percent": 31.6
+    },
+    {
+        "timestamp": "2025-05-08T18:00:00",
+        "temperature_C": 30.9,
+        "humidity_percent": 74.4,
+        "solar_irradiance_Wm2": 273.6,
+        "cloud_cover_percent": 82.3
+    },
+    {
+        "timestamp": "2025-05-08T19:00:00",
+        "temperature_C": 29.9,
+        "humidity_percent": 98.8,
+        "solar_irradiance_Wm2": 363.0,
+        "cloud_cover_percent": 43.6
+    },
+    {
+        "timestamp": "2025-05-08T20:00:00",
+        "temperature_C": 28.3,
+        "humidity_percent": 65.5,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 74.3
+    },
+    {
+        "timestamp": "2025-05-08T21:00:00",
+        "temperature_C": 27.0,
+        "humidity_percent": 58.0,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 80.4
+    },
+    {
+        "timestamp": "2025-05-08T22:00:00",
+        "temperature_C": 29.1,
+        "humidity_percent": 84.4,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 70.0
+    },
+    {
+        "timestamp": "2025-05-08T23:00:00",
+        "temperature_C": 31.7,
+        "humidity_percent": 75.0,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 41.4
+    },
+    {
+        "timestamp": "2025-05-09T00:00:00",
+        "temperature_C": 30.4,
+        "humidity_percent": 69.8,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 58.1
+    },
+    {
+        "timestamp": "2025-05-09T01:00:00",
+        "temperature_C": 27.5,
+        "humidity_percent": 87.1,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 49.5
+    },
+    {
+        "timestamp": "2025-05-09T02:00:00",
+        "temperature_C": 30.3,
+        "humidity_percent": 82.4,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 31.9
+    },
+    {
+        "timestamp": "2025-05-09T03:00:00",
+        "temperature_C": 30.8,
+        "humidity_percent": 74.4,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 56.5
+    },
+    {
+        "timestamp": "2025-05-09T04:00:00",
+        "temperature_C": 28.2,
+        "humidity_percent": 67.2,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 26.4
+    },
+    {
+        "timestamp": "2025-05-09T05:00:00",
+        "temperature_C": 30.3,
+        "humidity_percent": 88.7,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 73.8
+    },
+    {
+        "timestamp": "2025-05-09T06:00:00",
+        "temperature_C": 30.1,
+        "humidity_percent": 86.5,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 40.7
+    },
+    {
+        "timestamp": "2025-05-09T07:00:00",
+        "temperature_C": 27.7,
+        "humidity_percent": 79.0,
+        "solar_irradiance_Wm2": 361.1,
+        "cloud_cover_percent": 54.0
+    },
+    {
+        "timestamp": "2025-05-09T08:00:00",
+        "temperature_C": 30.7,
+        "humidity_percent": 98.5,
+        "solar_irradiance_Wm2": 482.2,
+        "cloud_cover_percent": 55.7
+    },
+    {
+        "timestamp": "2025-05-09T09:00:00",
+        "temperature_C": 31.1,
+        "humidity_percent": 69.3,
+        "solar_irradiance_Wm2": 400.9,
+        "cloud_cover_percent": 44.8
+    },
+    {
+        "timestamp": "2025-05-09T10:00:00",
+        "temperature_C": 32.2,
+        "humidity_percent": 64.7,
+        "solar_irradiance_Wm2": 424.1,
+        "cloud_cover_percent": 61.7
+    },
+    {
+        "timestamp": "2025-05-09T11:00:00",
+        "temperature_C": 32.1,
+        "humidity_percent": 73.1,
+        "solar_irradiance_Wm2": 272.3,
+        "cloud_cover_percent": 40.5
+    },
+    {
+        "timestamp": "2025-05-09T12:00:00",
+        "temperature_C": 27.2,
+        "humidity_percent": 79.5,
+        "solar_irradiance_Wm2": 300.2,
+        "cloud_cover_percent": 67.4
+    },
+    {
+        "timestamp": "2025-05-09T13:00:00",
+        "temperature_C": 28.1,
+        "humidity_percent": 82.4,
+        "solar_irradiance_Wm2": 292.0,
+        "cloud_cover_percent": 23.1
+    },
+    {
+        "timestamp": "2025-05-09T14:00:00",
+        "temperature_C": 31.0,
+        "humidity_percent": 77.6,
+        "solar_irradiance_Wm2": 517.5,
+        "cloud_cover_percent": 52.5
+    },
+    {
+        "timestamp": "2025-05-09T15:00:00",
+        "temperature_C": 31.0,
+        "humidity_percent": 83.5,
+        "solar_irradiance_Wm2": 773.4,
+        "cloud_cover_percent": 88.8
+    },
+    {
+        "timestamp": "2025-05-09T16:00:00",
+        "temperature_C": 31.0,
+        "humidity_percent": 67.5,
+        "solar_irradiance_Wm2": 250.0,
+        "cloud_cover_percent": 30.0
+    },
+    {
+        "timestamp": "2025-05-09T17:00:00",
+        "temperature_C": 37.7,
+        "humidity_percent": 94.4,
+        "solar_irradiance_Wm2": 513.0,
+        "cloud_cover_percent": 36.4
+    },
+    {
+        "timestamp": "2025-05-09T18:00:00",
+        "temperature_C": 31.1,
+        "humidity_percent": 79.2,
+        "solar_irradiance_Wm2": 659.8,
+        "cloud_cover_percent": 60.3
+    },
+    {
+        "timestamp": "2025-05-09T19:00:00",
+        "temperature_C": 32.3,
+        "humidity_percent": 91.2,
+        "solar_irradiance_Wm2": 226.2,
+        "cloud_cover_percent": 53.6
+    },
+    {
+        "timestamp": "2025-05-09T20:00:00",
+        "temperature_C": 31.9,
+        "humidity_percent": 83.4,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 57.0
+    },
+    {
+        "timestamp": "2025-05-09T21:00:00",
+        "temperature_C": 31.3,
+        "humidity_percent": 84.6,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 59.8
+    },
+    {
+        "timestamp": "2025-05-09T22:00:00",
+        "temperature_C": 29.4,
+        "humidity_percent": 85.7,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 62.7
+    },
+    {
+        "timestamp": "2025-05-09T23:00:00",
+        "temperature_C": 31.5,
+        "humidity_percent": 84.5,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 72.2
+    },
+    {
+        "timestamp": "2025-05-10T00:00:00",
+        "temperature_C": 28.5,
+        "humidity_percent": 86.4,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 58.2
+    },
+    {
+        "timestamp": "2025-05-10T01:00:00",
+        "temperature_C": 29.5,
+        "humidity_percent": 93.3,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 45.2
+    },
+    {
+        "timestamp": "2025-05-10T02:00:00",
+        "temperature_C": 29.0,
+        "humidity_percent": 82.0,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 63.5
+    },
+    {
+        "timestamp": "2025-05-10T03:00:00",
+        "temperature_C": 30.2,
+        "humidity_percent": 87.1,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 88.0
+    },
+    {
+        "timestamp": "2025-05-10T04:00:00",
+        "temperature_C": 34.6,
+        "humidity_percent": 79.1,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 47.3
+    },
+    {
+        "timestamp": "2025-05-10T05:00:00",
+        "temperature_C": 26.3,
+        "humidity_percent": 94.4,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 30.5
+    },
+    {
+        "timestamp": "2025-05-10T06:00:00",
+        "temperature_C": 31.4,
+        "humidity_percent": 73.2,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 72.1
+    },
+    {
+        "timestamp": "2025-05-10T07:00:00",
+        "temperature_C": 26.8,
+        "humidity_percent": 98.0,
+        "solar_irradiance_Wm2": 408.9,
+        "cloud_cover_percent": 47.6
+    },
+    {
+        "timestamp": "2025-05-10T08:00:00",
+        "temperature_C": 29.1,
+        "humidity_percent": 79.6,
+        "solar_irradiance_Wm2": 204.5,
+        "cloud_cover_percent": 6.5
+    },
+    {
+        "timestamp": "2025-05-10T09:00:00",
+        "temperature_C": 32.2,
+        "humidity_percent": 65.7,
+        "solar_irradiance_Wm2": 358.5,
+        "cloud_cover_percent": 66.9
+    },
+    {
+        "timestamp": "2025-05-10T10:00:00",
+        "temperature_C": 30.1,
+        "humidity_percent": 81.3,
+        "solar_irradiance_Wm2": 293.2,
+        "cloud_cover_percent": 39.3
+    },
+    {
+        "timestamp": "2025-05-10T11:00:00",
+        "temperature_C": 27.8,
+        "humidity_percent": 73.2,
+        "solar_irradiance_Wm2": 597.7,
+        "cloud_cover_percent": 48.2
+    },
+    {
+        "timestamp": "2025-05-10T12:00:00",
+        "temperature_C": 28.6,
+        "humidity_percent": 88.4,
+        "solar_irradiance_Wm2": 215.9,
+        "cloud_cover_percent": 56.6
+    },
+    {
+        "timestamp": "2025-05-10T13:00:00",
+        "temperature_C": 31.4,
+        "humidity_percent": 73.5,
+        "solar_irradiance_Wm2": 308.5,
+        "cloud_cover_percent": 53.8
+    },
+    {
+        "timestamp": "2025-05-10T14:00:00",
+        "temperature_C": 28.5,
+        "humidity_percent": 75.5,
+        "solar_irradiance_Wm2": 384.5,
+        "cloud_cover_percent": 64.2
+    },
+    {
+        "timestamp": "2025-05-10T15:00:00",
+        "temperature_C": 30.4,
+        "humidity_percent": 61.1,
+        "solar_irradiance_Wm2": 336.5,
+        "cloud_cover_percent": 41.3
+    },
+    {
+        "timestamp": "2025-05-10T16:00:00",
+        "temperature_C": 30.1,
+        "humidity_percent": 75.5,
+        "solar_irradiance_Wm2": 694.5,
+        "cloud_cover_percent": 60.3
+    },
+    {
+        "timestamp": "2025-05-10T17:00:00",
+        "temperature_C": 28.7,
+        "humidity_percent": 55.8,
+        "solar_irradiance_Wm2": 388.2,
+        "cloud_cover_percent": 44.8
+    },
+    {
+        "timestamp": "2025-05-10T18:00:00",
+        "temperature_C": 34.3,
+        "humidity_percent": 64.2,
+        "solar_irradiance_Wm2": 435.5,
+        "cloud_cover_percent": 64.8
+    },
+    {
+        "timestamp": "2025-05-10T19:00:00",
+        "temperature_C": 31.3,
+        "humidity_percent": 87.6,
+        "solar_irradiance_Wm2": 643.4,
+        "cloud_cover_percent": 62.3
+    },
+    {
+        "timestamp": "2025-05-10T20:00:00",
+        "temperature_C": 25.9,
+        "humidity_percent": 87.9,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 31.3
+    },
+    {
+        "timestamp": "2025-05-10T21:00:00",
+        "temperature_C": 30.4,
+        "humidity_percent": 84.3,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 71.7
+    },
+    {
+        "timestamp": "2025-05-10T22:00:00",
+        "temperature_C": 28.7,
+        "humidity_percent": 70.3,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 39.3
+    },
+    {
+        "timestamp": "2025-05-10T23:00:00",
+        "temperature_C": 31.7,
+        "humidity_percent": 79.5,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 66.2
+    },
+    {
+        "timestamp": "2025-05-11T00:00:00",
+        "temperature_C": 28.4,
+        "humidity_percent": 80.0,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 57.3
+    },
+    {
+        "timestamp": "2025-05-11T01:00:00",
+        "temperature_C": 29.8,
+        "humidity_percent": 68.4,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 86.8
+    },
+    {
+        "timestamp": "2025-05-11T02:00:00",
+        "temperature_C": 31.0,
+        "humidity_percent": 95.0,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 45.5
+    },
+    {
+        "timestamp": "2025-05-11T03:00:00",
+        "temperature_C": 31.7,
+        "humidity_percent": 88.8,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 43.0
+    },
+    {
+        "timestamp": "2025-05-11T04:00:00",
+        "temperature_C": 27.6,
+        "humidity_percent": 77.8,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 49.6
+    },
+    {
+        "timestamp": "2025-05-11T05:00:00",
+        "temperature_C": 29.3,
+        "humidity_percent": 80.3,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 43.9
+    },
+    {
+        "timestamp": "2025-05-11T06:00:00",
+        "temperature_C": 29.1,
+        "humidity_percent": 82.1,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 66.0
+    },
+    {
+        "timestamp": "2025-05-11T07:00:00",
+        "temperature_C": 28.7,
+        "humidity_percent": 59.6,
+        "solar_irradiance_Wm2": 498.8,
+        "cloud_cover_percent": 17.7
+    },
+    {
+        "timestamp": "2025-05-11T08:00:00",
+        "temperature_C": 33.5,
+        "humidity_percent": 77.5,
+        "solar_irradiance_Wm2": 227.0,
+        "cloud_cover_percent": 28.9
+    },
+    {
+        "timestamp": "2025-05-11T09:00:00",
+        "temperature_C": 30.8,
+        "humidity_percent": 73.2,
+        "solar_irradiance_Wm2": 546.4,
+        "cloud_cover_percent": 28.6
+    },
+    {
+        "timestamp": "2025-05-11T10:00:00",
+        "temperature_C": 27.5,
+        "humidity_percent": 70.0,
+        "solar_irradiance_Wm2": 139.1,
+        "cloud_cover_percent": 69.0
+    },
+    {
+        "timestamp": "2025-05-11T11:00:00",
+        "temperature_C": 31.8,
+        "humidity_percent": 77.2,
+        "solar_irradiance_Wm2": 562.2,
+        "cloud_cover_percent": 84.2
+    },
+    {
+        "timestamp": "2025-05-11T12:00:00",
+        "temperature_C": 34.2,
+        "humidity_percent": 98.0,
+        "solar_irradiance_Wm2": 733.8,
+        "cloud_cover_percent": 47.9
+    },
+    {
+        "timestamp": "2025-05-11T13:00:00",
+        "temperature_C": 32.1,
+        "humidity_percent": 86.4,
+        "solar_irradiance_Wm2": 592.4,
+        "cloud_cover_percent": 46.6
+    },
+    {
+        "timestamp": "2025-05-11T14:00:00",
+        "temperature_C": 27.0,
+        "humidity_percent": 74.3,
+        "solar_irradiance_Wm2": 205.6,
+        "cloud_cover_percent": 51.4
+    },
+    {
+        "timestamp": "2025-05-11T15:00:00",
+        "temperature_C": 29.0,
+        "humidity_percent": 85.7,
+        "solar_irradiance_Wm2": 528.0,
+        "cloud_cover_percent": 73.2
+    },
+    {
+        "timestamp": "2025-05-11T16:00:00",
+        "temperature_C": 32.5,
+        "humidity_percent": 94.0,
+        "solar_irradiance_Wm2": 578.6,
+        "cloud_cover_percent": 31.5
+    },
+    {
+        "timestamp": "2025-05-11T17:00:00",
+        "temperature_C": 28.6,
+        "humidity_percent": 89.2,
+        "solar_irradiance_Wm2": 364.1,
+        "cloud_cover_percent": 54.8
+    },
+    {
+        "timestamp": "2025-05-11T18:00:00",
+        "temperature_C": 30.9,
+        "humidity_percent": 80.6,
+        "solar_irradiance_Wm2": 344.5,
+        "cloud_cover_percent": 69.5
+    },
+    {
+        "timestamp": "2025-05-11T19:00:00",
+        "temperature_C": 31.5,
+        "humidity_percent": 73.5,
+        "solar_irradiance_Wm2": 198.0,
+        "cloud_cover_percent": 60.0
+    },
+    {
+        "timestamp": "2025-05-11T20:00:00",
+        "temperature_C": 28.1,
+        "humidity_percent": 87.0,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 53.8
+    },
+    {
+        "timestamp": "2025-05-11T21:00:00",
+        "temperature_C": 29.9,
+        "humidity_percent": 83.9,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 70.0
+    },
+    {
+        "timestamp": "2025-05-11T22:00:00",
+        "temperature_C": 23.5,
+        "humidity_percent": 89.0,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 0.0
+    },
+    {
+        "timestamp": "2025-05-11T23:00:00",
+        "temperature_C": 28.0,
+        "humidity_percent": 86.4,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 63.6
+    },
+    {
+        "timestamp": "2025-05-12T00:00:00",
+        "temperature_C": 29.5,
+        "humidity_percent": 90.5,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 36.9
+    },
+    {
+        "timestamp": "2025-05-12T01:00:00",
+        "temperature_C": 27.5,
+        "humidity_percent": 74.6,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 13.4
+    },
+    {
+        "timestamp": "2025-05-12T02:00:00",
+        "temperature_C": 33.3,
+        "humidity_percent": 93.2,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 60.2
+    },
+    {
+        "timestamp": "2025-05-12T03:00:00",
+        "temperature_C": 27.1,
+        "humidity_percent": 82.0,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 77.5
+    },
+    {
+        "timestamp": "2025-05-12T04:00:00",
+        "temperature_C": 29.1,
+        "humidity_percent": 100.0,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 47.3
+    },
+    {
+        "timestamp": "2025-05-12T05:00:00",
+        "temperature_C": 30.3,
+        "humidity_percent": 73.1,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 69.1
+    },
+    {
+        "timestamp": "2025-05-12T06:00:00",
+        "temperature_C": 32.9,
+        "humidity_percent": 97.4,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 82.2
+    },
+    {
+        "timestamp": "2025-05-12T07:00:00",
+        "temperature_C": 27.1,
+        "humidity_percent": 82.0,
+        "solar_irradiance_Wm2": 151.0,
+        "cloud_cover_percent": 76.3
+    },
+    {
+        "timestamp": "2025-05-12T08:00:00",
+        "temperature_C": 32.3,
+        "humidity_percent": 73.5,
+        "solar_irradiance_Wm2": 351.8,
+        "cloud_cover_percent": 82.8
+    },
+    {
+        "timestamp": "2025-05-12T09:00:00",
+        "temperature_C": 30.0,
+        "humidity_percent": 75.2,
+        "solar_irradiance_Wm2": 637.4,
+        "cloud_cover_percent": 64.8
+    },
+    {
+        "timestamp": "2025-05-12T10:00:00",
+        "temperature_C": 28.0,
+        "humidity_percent": 76.8,
+        "solar_irradiance_Wm2": 455.7,
+        "cloud_cover_percent": 51.5
+    },
+    {
+        "timestamp": "2025-05-12T11:00:00",
+        "temperature_C": 30.9,
+        "humidity_percent": 84.2,
+        "solar_irradiance_Wm2": 279.1,
+        "cloud_cover_percent": 18.0
+    },
+    {
+        "timestamp": "2025-05-12T12:00:00",
+        "temperature_C": 30.4,
+        "humidity_percent": 85.2,
+        "solar_irradiance_Wm2": 665.0,
+        "cloud_cover_percent": 45.1
+    },
+    {
+        "timestamp": "2025-05-12T13:00:00",
+        "temperature_C": 28.8,
+        "humidity_percent": 74.3,
+        "solar_irradiance_Wm2": 511.0,
+        "cloud_cover_percent": 33.1
+    },
+    {
+        "timestamp": "2025-05-12T14:00:00",
+        "temperature_C": 30.1,
+        "humidity_percent": 79.8,
+        "solar_irradiance_Wm2": 263.5,
+        "cloud_cover_percent": 93.4
+    },
+    {
+        "timestamp": "2025-05-12T15:00:00",
+        "temperature_C": 29.2,
+        "humidity_percent": 100.0,
+        "solar_irradiance_Wm2": 428.7,
+        "cloud_cover_percent": 46.5
+    },
+    {
+        "timestamp": "2025-05-12T16:00:00",
+        "temperature_C": 30.2,
+        "humidity_percent": 97.3,
+        "solar_irradiance_Wm2": 477.2,
+        "cloud_cover_percent": 52.5
+    },
+    {
+        "timestamp": "2025-05-12T17:00:00",
+        "temperature_C": 31.3,
+        "humidity_percent": 84.4,
+        "solar_irradiance_Wm2": 576.8,
+        "cloud_cover_percent": 61.0
+    },
+    {
+        "timestamp": "2025-05-12T18:00:00",
+        "temperature_C": 33.2,
+        "humidity_percent": 80.4,
+        "solar_irradiance_Wm2": 457.6,
+        "cloud_cover_percent": 50.9
+    },
+    {
+        "timestamp": "2025-05-12T19:00:00",
+        "temperature_C": 27.5,
+        "humidity_percent": 81.2,
+        "solar_irradiance_Wm2": 674.6,
+        "cloud_cover_percent": 83.9
+    },
+    {
+        "timestamp": "2025-05-12T20:00:00",
+        "temperature_C": 34.3,
+        "humidity_percent": 86.1,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 37.5
+    },
+    {
+        "timestamp": "2025-05-12T21:00:00",
+        "temperature_C": 26.1,
+        "humidity_percent": 69.8,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 53.9
+    },
+    {
+        "timestamp": "2025-05-12T22:00:00",
+        "temperature_C": 29.7,
+        "humidity_percent": 77.4,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 35.2
+    },
+    {
+        "timestamp": "2025-05-12T23:00:00",
+        "temperature_C": 31.2,
+        "humidity_percent": 63.3,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 23.6
+    },
+    {
+        "timestamp": "2025-05-13T00:00:00",
+        "temperature_C": 30.6,
+        "humidity_percent": 84.0,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 37.8
+    },
+    {
+        "timestamp": "2025-05-13T01:00:00",
+        "temperature_C": 28.8,
+        "humidity_percent": 86.5,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 49.3
+    },
+    {
+        "timestamp": "2025-05-13T02:00:00",
+        "temperature_C": 29.6,
+        "humidity_percent": 75.2,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 41.4
+    },
+    {
+        "timestamp": "2025-05-13T03:00:00",
+        "temperature_C": 29.0,
+        "humidity_percent": 95.7,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 36.2
+    },
+    {
+        "timestamp": "2025-05-13T04:00:00",
+        "temperature_C": 28.8,
+        "humidity_percent": 67.7,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 21.9
+    },
+    {
+        "timestamp": "2025-05-13T05:00:00",
+        "temperature_C": 31.7,
+        "humidity_percent": 65.4,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 48.3
+    },
+    {
+        "timestamp": "2025-05-13T06:00:00",
+        "temperature_C": 30.7,
+        "humidity_percent": 82.2,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 19.9
+    },
+    {
+        "timestamp": "2025-05-13T07:00:00",
+        "temperature_C": 28.6,
+        "humidity_percent": 90.5,
+        "solar_irradiance_Wm2": 231.5,
+        "cloud_cover_percent": 65.2
+    },
+    {
+        "timestamp": "2025-05-13T08:00:00",
+        "temperature_C": 31.8,
+        "humidity_percent": 96.8,
+        "solar_irradiance_Wm2": 275.1,
+        "cloud_cover_percent": 51.6
+    },
+    {
+        "timestamp": "2025-05-13T09:00:00",
+        "temperature_C": 30.6,
+        "humidity_percent": 75.4,
+        "solar_irradiance_Wm2": 811.0,
+        "cloud_cover_percent": 20.8
+    },
+    {
+        "timestamp": "2025-05-13T10:00:00",
+        "temperature_C": 31.6,
+        "humidity_percent": 90.8,
+        "solar_irradiance_Wm2": 423.9,
+        "cloud_cover_percent": 43.8
+    },
+    {
+        "timestamp": "2025-05-13T11:00:00",
+        "temperature_C": 31.3,
+        "humidity_percent": 79.6,
+        "solar_irradiance_Wm2": 672.2,
+        "cloud_cover_percent": 35.0
+    },
+    {
+        "timestamp": "2025-05-13T12:00:00",
+        "temperature_C": 28.3,
+        "humidity_percent": 78.3,
+        "solar_irradiance_Wm2": 499.0,
+        "cloud_cover_percent": 56.4
+    },
+    {
+        "timestamp": "2025-05-13T13:00:00",
+        "temperature_C": 28.9,
+        "humidity_percent": 88.8,
+        "solar_irradiance_Wm2": 464.0,
+        "cloud_cover_percent": 76.8
+    },
+    {
+        "timestamp": "2025-05-13T14:00:00",
+        "temperature_C": 31.5,
+        "humidity_percent": 86.5,
+        "solar_irradiance_Wm2": 485.8,
+        "cloud_cover_percent": 12.5
+    },
+    {
+        "timestamp": "2025-05-13T15:00:00",
+        "temperature_C": 31.2,
+        "humidity_percent": 64.2,
+        "solar_irradiance_Wm2": 500.3,
+        "cloud_cover_percent": 52.3
+    },
+    {
+        "timestamp": "2025-05-13T16:00:00",
+        "temperature_C": 30.0,
+        "humidity_percent": 94.8,
+        "solar_irradiance_Wm2": 431.0,
+        "cloud_cover_percent": 46.8
+    },
+    {
+        "timestamp": "2025-05-13T17:00:00",
+        "temperature_C": 30.2,
+        "humidity_percent": 93.8,
+        "solar_irradiance_Wm2": 428.3,
+        "cloud_cover_percent": 63.4
+    },
+    {
+        "timestamp": "2025-05-13T18:00:00",
+        "temperature_C": 32.6,
+        "humidity_percent": 73.7,
+        "solar_irradiance_Wm2": 444.3,
+        "cloud_cover_percent": 54.3
+    },
+    {
+        "timestamp": "2025-05-13T19:00:00",
+        "temperature_C": 28.8,
+        "humidity_percent": 84.0,
+        "solar_irradiance_Wm2": 596.0,
+        "cloud_cover_percent": 35.0
+    },
+    {
+        "timestamp": "2025-05-13T20:00:00",
+        "temperature_C": 31.1,
+        "humidity_percent": 84.9,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 43.6
+    },
+    {
+        "timestamp": "2025-05-13T21:00:00",
+        "temperature_C": 29.6,
+        "humidity_percent": 82.6,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 34.1
+    },
+    {
+        "timestamp": "2025-05-13T22:00:00",
+        "temperature_C": 29.6,
+        "humidity_percent": 74.5,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 71.5
+    },
+    {
+        "timestamp": "2025-05-13T23:00:00",
+        "temperature_C": 32.2,
+        "humidity_percent": 73.3,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 50.4
+    },
+    {
+        "timestamp": "2025-05-14T00:00:00",
+        "temperature_C": 31.7,
+        "humidity_percent": 79.7,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 88.0
+    },
+    {
+        "timestamp": "2025-05-14T01:00:00",
+        "temperature_C": 31.6,
+        "humidity_percent": 91.7,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 48.8
+    },
+    {
+        "timestamp": "2025-05-14T02:00:00",
+        "temperature_C": 32.6,
+        "humidity_percent": 85.4,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 35.8
+    },
+    {
+        "timestamp": "2025-05-14T03:00:00",
+        "temperature_C": 30.0,
+        "humidity_percent": 76.3,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 19.7
+    },
+    {
+        "timestamp": "2025-05-14T04:00:00",
+        "temperature_C": 31.4,
+        "humidity_percent": 87.7,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 13.9
+    },
+    {
+        "timestamp": "2025-05-14T05:00:00",
+        "temperature_C": 29.4,
+        "humidity_percent": 51.5,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 18.3
+    },
+    {
+        "timestamp": "2025-05-14T06:00:00",
+        "temperature_C": 30.6,
+        "humidity_percent": 91.5,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 55.3
+    },
+    {
+        "timestamp": "2025-05-14T07:00:00",
+        "temperature_C": 29.7,
+        "humidity_percent": 62.6,
+        "solar_irradiance_Wm2": 374.0,
+        "cloud_cover_percent": 60.2
+    },
+    {
+        "timestamp": "2025-05-14T08:00:00",
+        "temperature_C": 30.2,
+        "humidity_percent": 76.4,
+        "solar_irradiance_Wm2": 425.3,
+        "cloud_cover_percent": 18.4
+    },
+    {
+        "timestamp": "2025-05-14T09:00:00",
+        "temperature_C": 31.2,
+        "humidity_percent": 68.8,
+        "solar_irradiance_Wm2": 489.5,
+        "cloud_cover_percent": 67.9
+    },
+    {
+        "timestamp": "2025-05-14T10:00:00",
+        "temperature_C": 28.4,
+        "humidity_percent": 67.1,
+        "solar_irradiance_Wm2": 164.2,
+        "cloud_cover_percent": 40.3
+    },
+    {
+        "timestamp": "2025-05-14T11:00:00",
+        "temperature_C": 34.2,
+        "humidity_percent": 91.6,
+        "solar_irradiance_Wm2": 152.1,
+        "cloud_cover_percent": 52.9
+    },
+    {
+        "timestamp": "2025-05-14T12:00:00",
+        "temperature_C": 28.0,
+        "humidity_percent": 75.3,
+        "solar_irradiance_Wm2": 558.5,
+        "cloud_cover_percent": 82.2
+    },
+    {
+        "timestamp": "2025-05-14T13:00:00",
+        "temperature_C": 27.6,
+        "humidity_percent": 83.5,
+        "solar_irradiance_Wm2": 232.8,
+        "cloud_cover_percent": 67.9
+    },
+    {
+        "timestamp": "2025-05-14T14:00:00",
+        "temperature_C": 32.3,
+        "humidity_percent": 79.5,
+        "solar_irradiance_Wm2": 229.3,
+        "cloud_cover_percent": 44.6
+    },
+    {
+        "timestamp": "2025-05-14T15:00:00",
+        "temperature_C": 31.6,
+        "humidity_percent": 84.8,
+        "solar_irradiance_Wm2": 704.8,
+        "cloud_cover_percent": 32.2
+    },
+    {
+        "timestamp": "2025-05-14T16:00:00",
+        "temperature_C": 31.2,
+        "humidity_percent": 80.8,
+        "solar_irradiance_Wm2": 335.2,
+        "cloud_cover_percent": 7.0
+    },
+    {
+        "timestamp": "2025-05-14T17:00:00",
+        "temperature_C": 31.3,
+        "humidity_percent": 67.2,
+        "solar_irradiance_Wm2": 183.4,
+        "cloud_cover_percent": 35.6
+    },
+    {
+        "timestamp": "2025-05-14T18:00:00",
+        "temperature_C": 30.0,
+        "humidity_percent": 90.0,
+        "solar_irradiance_Wm2": 595.5,
+        "cloud_cover_percent": 45.8
+    },
+    {
+        "timestamp": "2025-05-14T19:00:00",
+        "temperature_C": 28.2,
+        "humidity_percent": 75.1,
+        "solar_irradiance_Wm2": 477.1,
+        "cloud_cover_percent": 30.3
+    },
+    {
+        "timestamp": "2025-05-14T20:00:00",
+        "temperature_C": 30.2,
+        "humidity_percent": 64.4,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 47.4
+    },
+    {
+        "timestamp": "2025-05-14T21:00:00",
+        "temperature_C": 28.6,
+        "humidity_percent": 75.7,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 51.5
+    },
+    {
+        "timestamp": "2025-05-14T22:00:00",
+        "temperature_C": 32.0,
+        "humidity_percent": 95.0,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 45.5
+    },
+    {
+        "timestamp": "2025-05-14T23:00:00",
+        "temperature_C": 29.7,
+        "humidity_percent": 88.5,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 37.0
+    },
+    {
+        "timestamp": "2025-05-15T00:00:00",
+        "temperature_C": 28.3,
+        "humidity_percent": 76.5,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 53.4
+    },
+    {
+        "timestamp": "2025-05-15T01:00:00",
+        "temperature_C": 29.4,
+        "humidity_percent": 76.5,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 58.8
+    },
+    {
+        "timestamp": "2025-05-15T02:00:00",
+        "temperature_C": 30.8,
+        "humidity_percent": 76.8,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 28.2
+    },
+    {
+        "timestamp": "2025-05-15T03:00:00",
+        "temperature_C": 28.9,
+        "humidity_percent": 100.0,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 78.2
+    },
+    {
+        "timestamp": "2025-05-15T04:00:00",
+        "temperature_C": 28.4,
+        "humidity_percent": 83.8,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 48.0
+    },
+    {
+        "timestamp": "2025-05-15T05:00:00",
+        "temperature_C": 30.5,
+        "humidity_percent": 84.3,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 50.4
+    },
+    {
+        "timestamp": "2025-05-15T06:00:00",
+        "temperature_C": 30.5,
+        "humidity_percent": 90.3,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 64.2
+    },
+    {
+        "timestamp": "2025-05-15T07:00:00",
+        "temperature_C": 29.0,
+        "humidity_percent": 82.4,
+        "solar_irradiance_Wm2": 190.0,
+        "cloud_cover_percent": 54.7
+    },
+    {
+        "timestamp": "2025-05-15T08:00:00",
+        "temperature_C": 29.1,
+        "humidity_percent": 77.4,
+        "solar_irradiance_Wm2": 367.7,
+        "cloud_cover_percent": 69.1
+    },
+    {
+        "timestamp": "2025-05-15T09:00:00",
+        "temperature_C": 30.5,
+        "humidity_percent": 78.0,
+        "solar_irradiance_Wm2": 259.5,
+        "cloud_cover_percent": 55.7
+    },
+    {
+        "timestamp": "2025-05-15T10:00:00",
+        "temperature_C": 27.1,
+        "humidity_percent": 79.3,
+        "solar_irradiance_Wm2": 338.2,
+        "cloud_cover_percent": 37.8
+    },
+    {
+        "timestamp": "2025-05-15T11:00:00",
+        "temperature_C": 27.2,
+        "humidity_percent": 79.6,
+        "solar_irradiance_Wm2": 310.5,
+        "cloud_cover_percent": 57.2
+    },
+    {
+        "timestamp": "2025-05-15T12:00:00",
+        "temperature_C": 28.6,
+        "humidity_percent": 87.3,
+        "solar_irradiance_Wm2": 561.7,
+        "cloud_cover_percent": 27.1
+    },
+    {
+        "timestamp": "2025-05-15T13:00:00",
+        "temperature_C": 29.6,
+        "humidity_percent": 80.5,
+        "solar_irradiance_Wm2": 267.9,
+        "cloud_cover_percent": 52.2
+    },
+    {
+        "timestamp": "2025-05-15T14:00:00",
+        "temperature_C": 30.6,
+        "humidity_percent": 87.3,
+        "solar_irradiance_Wm2": 200.6,
+        "cloud_cover_percent": 49.3
+    },
+    {
+        "timestamp": "2025-05-15T15:00:00",
+        "temperature_C": 33.0,
+        "humidity_percent": 79.2,
+        "solar_irradiance_Wm2": 466.7,
+        "cloud_cover_percent": 45.8
+    },
+    {
+        "timestamp": "2025-05-15T16:00:00",
+        "temperature_C": 31.7,
+        "humidity_percent": 80.8,
+        "solar_irradiance_Wm2": 461.4,
+        "cloud_cover_percent": 47.4
+    },
+    {
+        "timestamp": "2025-05-15T17:00:00",
+        "temperature_C": 29.7,
+        "humidity_percent": 60.0,
+        "solar_irradiance_Wm2": 616.8,
+        "cloud_cover_percent": 12.4
+    },
+    {
+        "timestamp": "2025-05-15T18:00:00",
+        "temperature_C": 30.0,
+        "humidity_percent": 89.2,
+        "solar_irradiance_Wm2": 376.9,
+        "cloud_cover_percent": 39.0
+    },
+    {
+        "timestamp": "2025-05-15T19:00:00",
+        "temperature_C": 28.0,
+        "humidity_percent": 83.5,
+        "solar_irradiance_Wm2": 311.2,
+        "cloud_cover_percent": 51.9
+    },
+    {
+        "timestamp": "2025-05-15T20:00:00",
+        "temperature_C": 30.0,
+        "humidity_percent": 90.0,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 53.2
+    },
+    {
+        "timestamp": "2025-05-15T21:00:00",
+        "temperature_C": 29.4,
+        "humidity_percent": 51.0,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 29.4
+    },
+    {
+        "timestamp": "2025-05-15T22:00:00",
+        "temperature_C": 30.6,
+        "humidity_percent": 100.0,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 75.3
+    },
+    {
+        "timestamp": "2025-05-15T23:00:00",
+        "temperature_C": 28.3,
+        "humidity_percent": 78.6,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 32.7
+    },
+    {
+        "timestamp": "2025-05-16T00:00:00",
+        "temperature_C": 31.0,
+        "humidity_percent": 91.1,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 69.4
+    },
+    {
+        "timestamp": "2025-05-16T01:00:00",
+        "temperature_C": 33.1,
+        "humidity_percent": 69.6,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 58.5
+    },
+    {
+        "timestamp": "2025-05-16T02:00:00",
+        "temperature_C": 29.8,
+        "humidity_percent": 86.1,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 37.1
+    },
+    {
+        "timestamp": "2025-05-16T03:00:00",
+        "temperature_C": 30.8,
+        "humidity_percent": 69.5,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 85.5
+    },
+    {
+        "timestamp": "2025-05-16T04:00:00",
+        "temperature_C": 31.4,
+        "humidity_percent": 73.8,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 26.1
+    },
+    {
+        "timestamp": "2025-05-16T05:00:00",
+        "temperature_C": 29.2,
+        "humidity_percent": 99.1,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 68.4
+    },
+    {
+        "timestamp": "2025-05-16T06:00:00",
+        "temperature_C": 30.4,
+        "humidity_percent": 78.1,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 70.0
+    },
+    {
+        "timestamp": "2025-05-16T07:00:00",
+        "temperature_C": 30.0,
+        "humidity_percent": 82.2,
+        "solar_irradiance_Wm2": 312.1,
+        "cloud_cover_percent": 36.6
+    },
+    {
+        "timestamp": "2025-05-16T08:00:00",
+        "temperature_C": 30.2,
+        "humidity_percent": 88.7,
+        "solar_irradiance_Wm2": 168.1,
+        "cloud_cover_percent": 77.8
+    },
+    {
+        "timestamp": "2025-05-16T09:00:00",
+        "temperature_C": 28.5,
+        "humidity_percent": 85.0,
+        "solar_irradiance_Wm2": 444.4,
+        "cloud_cover_percent": 45.0
+    },
+    {
+        "timestamp": "2025-05-16T10:00:00",
+        "temperature_C": 30.0,
+        "humidity_percent": 81.5,
+        "solar_irradiance_Wm2": 240.4,
+        "cloud_cover_percent": 55.8
+    },
+    {
+        "timestamp": "2025-05-16T11:00:00",
+        "temperature_C": 31.0,
+        "humidity_percent": 83.6,
+        "solar_irradiance_Wm2": 572.3,
+        "cloud_cover_percent": 55.2
+    },
+    {
+        "timestamp": "2025-05-16T12:00:00",
+        "temperature_C": 32.9,
+        "humidity_percent": 100.0,
+        "solar_irradiance_Wm2": 321.0,
+        "cloud_cover_percent": 47.3
+    },
+    {
+        "timestamp": "2025-05-16T13:00:00",
+        "temperature_C": 31.9,
+        "humidity_percent": 79.4,
+        "solar_irradiance_Wm2": 523.1,
+        "cloud_cover_percent": 66.2
+    },
+    {
+        "timestamp": "2025-05-16T14:00:00",
+        "temperature_C": 34.3,
+        "humidity_percent": 82.0,
+        "solar_irradiance_Wm2": 393.1,
+        "cloud_cover_percent": 65.9
+    },
+    {
+        "timestamp": "2025-05-16T15:00:00",
+        "temperature_C": 28.5,
+        "humidity_percent": 90.5,
+        "solar_irradiance_Wm2": 357.0,
+        "cloud_cover_percent": 15.0
+    },
+    {
+        "timestamp": "2025-05-16T16:00:00",
+        "temperature_C": 31.7,
+        "humidity_percent": 91.1,
+        "solar_irradiance_Wm2": 418.4,
+        "cloud_cover_percent": 76.1
+    },
+    {
+        "timestamp": "2025-05-16T17:00:00",
+        "temperature_C": 30.4,
+        "humidity_percent": 91.9,
+        "solar_irradiance_Wm2": 290.9,
+        "cloud_cover_percent": 16.8
+    },
+    {
+        "timestamp": "2025-05-16T18:00:00",
+        "temperature_C": 34.4,
+        "humidity_percent": 86.4,
+        "solar_irradiance_Wm2": 445.8,
+        "cloud_cover_percent": 70.7
+    },
+    {
+        "timestamp": "2025-05-16T19:00:00",
+        "temperature_C": 28.4,
+        "humidity_percent": 68.6,
+        "solar_irradiance_Wm2": 708.0,
+        "cloud_cover_percent": 72.5
+    },
+    {
+        "timestamp": "2025-05-16T20:00:00",
+        "temperature_C": 28.3,
+        "humidity_percent": 96.3,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 28.2
+    },
+    {
+        "timestamp": "2025-05-16T21:00:00",
+        "temperature_C": 28.8,
+        "humidity_percent": 68.5,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 41.8
+    },
+    {
+        "timestamp": "2025-05-16T22:00:00",
+        "temperature_C": 25.8,
+        "humidity_percent": 83.0,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 27.9
+    },
+    {
+        "timestamp": "2025-05-16T23:00:00",
+        "temperature_C": 28.9,
+        "humidity_percent": 72.5,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 45.7
+    },
+    {
+        "timestamp": "2025-05-17T00:00:00",
+        "temperature_C": 28.5,
+        "humidity_percent": 79.4,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 43.8
+    },
+    {
+        "timestamp": "2025-05-17T01:00:00",
+        "temperature_C": 30.3,
+        "humidity_percent": 83.3,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 65.6
+    },
+    {
+        "timestamp": "2025-05-17T02:00:00",
+        "temperature_C": 30.7,
+        "humidity_percent": 83.2,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 76.2
+    },
+    {
+        "timestamp": "2025-05-17T03:00:00",
+        "temperature_C": 33.8,
+        "humidity_percent": 84.2,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 77.9
+    },
+    {
+        "timestamp": "2025-05-17T04:00:00",
+        "temperature_C": 31.9,
+        "humidity_percent": 96.1,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 38.8
+    },
+    {
+        "timestamp": "2025-05-17T05:00:00",
+        "temperature_C": 28.8,
+        "humidity_percent": 84.5,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 45.8
+    },
+    {
+        "timestamp": "2025-05-17T06:00:00",
+        "temperature_C": 28.2,
+        "humidity_percent": 77.6,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 16.3
+    },
+    {
+        "timestamp": "2025-05-17T07:00:00",
+        "temperature_C": 31.0,
+        "humidity_percent": 89.6,
+        "solar_irradiance_Wm2": 121.7,
+        "cloud_cover_percent": 33.9
+    },
+    {
+        "timestamp": "2025-05-17T08:00:00",
+        "temperature_C": 27.4,
+        "humidity_percent": 91.9,
+        "solar_irradiance_Wm2": 217.2,
+        "cloud_cover_percent": 69.3
+    },
+    {
+        "timestamp": "2025-05-17T09:00:00",
+        "temperature_C": 33.7,
+        "humidity_percent": 67.7,
+        "solar_irradiance_Wm2": 647.7,
+        "cloud_cover_percent": 82.3
+    },
+    {
+        "timestamp": "2025-05-17T10:00:00",
+        "temperature_C": 32.4,
+        "humidity_percent": 86.0,
+        "solar_irradiance_Wm2": 296.5,
+        "cloud_cover_percent": 25.3
+    },
+    {
+        "timestamp": "2025-05-17T11:00:00",
+        "temperature_C": 29.1,
+        "humidity_percent": 87.0,
+        "solar_irradiance_Wm2": 440.8,
+        "cloud_cover_percent": 38.2
+    },
+    {
+        "timestamp": "2025-05-17T12:00:00",
+        "temperature_C": 26.6,
+        "humidity_percent": 77.0,
+        "solar_irradiance_Wm2": 361.4,
+        "cloud_cover_percent": 49.5
+    },
+    {
+        "timestamp": "2025-05-17T13:00:00",
+        "temperature_C": 32.7,
+        "humidity_percent": 93.8,
+        "solar_irradiance_Wm2": 292.5,
+        "cloud_cover_percent": 55.6
+    },
+    {
+        "timestamp": "2025-05-17T14:00:00",
+        "temperature_C": 29.8,
+        "humidity_percent": 78.5,
+        "solar_irradiance_Wm2": 384.5,
+        "cloud_cover_percent": 33.8
+    },
+    {
+        "timestamp": "2025-05-17T15:00:00",
+        "temperature_C": 32.5,
+        "humidity_percent": 81.3,
+        "solar_irradiance_Wm2": 461.7,
+        "cloud_cover_percent": 58.5
+    },
+    {
+        "timestamp": "2025-05-17T16:00:00",
+        "temperature_C": 26.8,
+        "humidity_percent": 78.3,
+        "solar_irradiance_Wm2": 444.1,
+        "cloud_cover_percent": 40.5
+    },
+    {
+        "timestamp": "2025-05-17T17:00:00",
+        "temperature_C": 28.8,
+        "humidity_percent": 80.2,
+        "solar_irradiance_Wm2": 453.7,
+        "cloud_cover_percent": 49.7
+    },
+    {
+        "timestamp": "2025-05-17T18:00:00",
+        "temperature_C": 30.0,
+        "humidity_percent": 69.0,
+        "solar_irradiance_Wm2": 643.7,
+        "cloud_cover_percent": 60.9
+    },
+    {
+        "timestamp": "2025-05-17T19:00:00",
+        "temperature_C": 30.1,
+        "humidity_percent": 65.6,
+        "solar_irradiance_Wm2": 488.3,
+        "cloud_cover_percent": 50.1
+    },
+    {
+        "timestamp": "2025-05-17T20:00:00",
+        "temperature_C": 29.1,
+        "humidity_percent": 95.9,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 41.3
+    },
+    {
+        "timestamp": "2025-05-17T21:00:00",
+        "temperature_C": 31.2,
+        "humidity_percent": 71.5,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 47.8
+    },
+    {
+        "timestamp": "2025-05-17T22:00:00",
+        "temperature_C": 27.9,
+        "humidity_percent": 70.1,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 48.2
+    },
+    {
+        "timestamp": "2025-05-17T23:00:00",
+        "temperature_C": 29.7,
+        "humidity_percent": 58.5,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 42.6
+    },
+    {
+        "timestamp": "2025-05-18T00:00:00",
+        "temperature_C": 30.2,
+        "humidity_percent": 73.6,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 44.8
+    },
+    {
+        "timestamp": "2025-05-18T01:00:00",
+        "temperature_C": 31.0,
+        "humidity_percent": 66.8,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 82.0
+    },
+    {
+        "timestamp": "2025-05-18T02:00:00",
+        "temperature_C": 31.4,
+        "humidity_percent": 96.4,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 61.2
+    },
+    {
+        "timestamp": "2025-05-18T03:00:00",
+        "temperature_C": 27.8,
+        "humidity_percent": 90.1,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 44.1
+    },
+    {
+        "timestamp": "2025-05-18T04:00:00",
+        "temperature_C": 26.9,
+        "humidity_percent": 73.1,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 63.9
+    },
+    {
+        "timestamp": "2025-05-18T05:00:00",
+        "temperature_C": 32.6,
+        "humidity_percent": 100.0,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 43.3
+    },
+    {
+        "timestamp": "2025-05-18T06:00:00",
+        "temperature_C": 30.7,
+        "humidity_percent": 89.8,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 73.5
+    },
+    {
+        "timestamp": "2025-05-18T07:00:00",
+        "temperature_C": 28.5,
+        "humidity_percent": 76.8,
+        "solar_irradiance_Wm2": 552.5,
+        "cloud_cover_percent": 57.4
+    },
+    {
+        "timestamp": "2025-05-18T08:00:00",
+        "temperature_C": 33.1,
+        "humidity_percent": 55.0,
+        "solar_irradiance_Wm2": 346.9,
+        "cloud_cover_percent": 47.9
+    },
+    {
+        "timestamp": "2025-05-18T09:00:00",
+        "temperature_C": 30.2,
+        "humidity_percent": 100.0,
+        "solar_irradiance_Wm2": 194.0,
+        "cloud_cover_percent": 59.0
+    },
+    {
+        "timestamp": "2025-05-18T10:00:00",
+        "temperature_C": 32.4,
+        "humidity_percent": 66.1,
+        "solar_irradiance_Wm2": 609.2,
+        "cloud_cover_percent": 18.6
+    },
+    {
+        "timestamp": "2025-05-18T11:00:00",
+        "temperature_C": 30.1,
+        "humidity_percent": 63.5,
+        "solar_irradiance_Wm2": 317.8,
+        "cloud_cover_percent": 27.5
+    },
+    {
+        "timestamp": "2025-05-18T12:00:00",
+        "temperature_C": 34.1,
+        "humidity_percent": 90.2,
+        "solar_irradiance_Wm2": 391.3,
+        "cloud_cover_percent": 26.1
+    },
+    {
+        "timestamp": "2025-05-18T13:00:00",
+        "temperature_C": 33.5,
+        "humidity_percent": 100.0,
+        "solar_irradiance_Wm2": 270.1,
+        "cloud_cover_percent": 52.9
+    },
+    {
+        "timestamp": "2025-05-18T14:00:00",
+        "temperature_C": 29.5,
+        "humidity_percent": 93.8,
+        "solar_irradiance_Wm2": 472.2,
+        "cloud_cover_percent": 84.7
+    },
+    {
+        "timestamp": "2025-05-18T15:00:00",
+        "temperature_C": 31.9,
+        "humidity_percent": 85.6,
+        "solar_irradiance_Wm2": 338.8,
+        "cloud_cover_percent": 94.6
+    },
+    {
+        "timestamp": "2025-05-18T16:00:00",
+        "temperature_C": 31.3,
+        "humidity_percent": 85.9,
+        "solar_irradiance_Wm2": 253.4,
+        "cloud_cover_percent": 62.8
+    },
+    {
+        "timestamp": "2025-05-18T17:00:00",
+        "temperature_C": 32.7,
+        "humidity_percent": 88.5,
+        "solar_irradiance_Wm2": 652.6,
+        "cloud_cover_percent": 60.0
+    },
+    {
+        "timestamp": "2025-05-18T18:00:00",
+        "temperature_C": 28.1,
+        "humidity_percent": 87.6,
+        "solar_irradiance_Wm2": 270.1,
+        "cloud_cover_percent": 14.0
+    },
+    {
+        "timestamp": "2025-05-18T19:00:00",
+        "temperature_C": 31.4,
+        "humidity_percent": 82.8,
+        "solar_irradiance_Wm2": 308.0,
+        "cloud_cover_percent": 39.1
+    },
+    {
+        "timestamp": "2025-05-18T20:00:00",
+        "temperature_C": 32.1,
+        "humidity_percent": 81.0,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 34.2
+    },
+    {
+        "timestamp": "2025-05-18T21:00:00",
+        "temperature_C": 26.5,
+        "humidity_percent": 79.4,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 37.6
+    },
+    {
+        "timestamp": "2025-05-18T22:00:00",
+        "temperature_C": 27.6,
+        "humidity_percent": 72.5,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 46.6
+    },
+    {
+        "timestamp": "2025-05-18T23:00:00",
+        "temperature_C": 25.9,
+        "humidity_percent": 77.2,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 40.6
+    },
+    {
+        "timestamp": "2025-05-19T00:00:00",
+        "temperature_C": 29.5,
+        "humidity_percent": 63.1,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 10.4
+    },
+    {
+        "timestamp": "2025-05-19T01:00:00",
+        "temperature_C": 31.4,
+        "humidity_percent": 79.0,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 65.0
+    },
+    {
+        "timestamp": "2025-05-19T02:00:00",
+        "temperature_C": 33.0,
+        "humidity_percent": 70.1,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 28.5
+    },
+    {
+        "timestamp": "2025-05-19T03:00:00",
+        "temperature_C": 30.1,
+        "humidity_percent": 69.0,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 54.8
+    },
+    {
+        "timestamp": "2025-05-19T04:00:00",
+        "temperature_C": 33.3,
+        "humidity_percent": 81.8,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 91.5
+    },
+    {
+        "timestamp": "2025-05-19T05:00:00",
+        "temperature_C": 27.2,
+        "humidity_percent": 93.9,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 31.6
+    },
+    {
+        "timestamp": "2025-05-19T06:00:00",
+        "temperature_C": 26.6,
+        "humidity_percent": 89.2,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 0.0
+    },
+    {
+        "timestamp": "2025-05-19T07:00:00",
+        "temperature_C": 29.9,
+        "humidity_percent": 64.3,
+        "solar_irradiance_Wm2": 398.1,
+        "cloud_cover_percent": 44.3
+    },
+    {
+        "timestamp": "2025-05-19T08:00:00",
+        "temperature_C": 30.8,
+        "humidity_percent": 70.1,
+        "solar_irradiance_Wm2": 413.1,
+        "cloud_cover_percent": 72.0
+    },
+    {
+        "timestamp": "2025-05-19T09:00:00",
+        "temperature_C": 29.9,
+        "humidity_percent": 89.4,
+        "solar_irradiance_Wm2": 358.6,
+        "cloud_cover_percent": 89.2
+    },
+    {
+        "timestamp": "2025-05-19T10:00:00",
+        "temperature_C": 25.9,
+        "humidity_percent": 70.2,
+        "solar_irradiance_Wm2": 339.2,
+        "cloud_cover_percent": 25.4
+    },
+    {
+        "timestamp": "2025-05-19T11:00:00",
+        "temperature_C": 29.8,
+        "humidity_percent": 77.8,
+        "solar_irradiance_Wm2": 244.3,
+        "cloud_cover_percent": 59.9
+    },
+    {
+        "timestamp": "2025-05-19T12:00:00",
+        "temperature_C": 27.4,
+        "humidity_percent": 85.5,
+        "solar_irradiance_Wm2": 25.3,
+        "cloud_cover_percent": 40.7
+    },
+    {
+        "timestamp": "2025-05-19T13:00:00",
+        "temperature_C": 31.3,
+        "humidity_percent": 70.3,
+        "solar_irradiance_Wm2": 628.3,
+        "cloud_cover_percent": 47.9
+    },
+    {
+        "timestamp": "2025-05-19T14:00:00",
+        "temperature_C": 30.7,
+        "humidity_percent": 81.1,
+        "solar_irradiance_Wm2": 773.9,
+        "cloud_cover_percent": 100.0
+    },
+    {
+        "timestamp": "2025-05-19T15:00:00",
+        "temperature_C": 28.1,
+        "humidity_percent": 66.7,
+        "solar_irradiance_Wm2": 370.7,
+        "cloud_cover_percent": 19.9
+    },
+    {
+        "timestamp": "2025-05-19T16:00:00",
+        "temperature_C": 29.0,
+        "humidity_percent": 74.0,
+        "solar_irradiance_Wm2": 227.3,
+        "cloud_cover_percent": 55.1
+    },
+    {
+        "timestamp": "2025-05-19T17:00:00",
+        "temperature_C": 27.9,
+        "humidity_percent": 83.2,
+        "solar_irradiance_Wm2": 350.1,
+        "cloud_cover_percent": 59.4
+    },
+    {
+        "timestamp": "2025-05-19T18:00:00",
+        "temperature_C": 29.9,
+        "humidity_percent": 64.1,
+        "solar_irradiance_Wm2": 152.2,
+        "cloud_cover_percent": 71.7
+    },
+    {
+        "timestamp": "2025-05-19T19:00:00",
+        "temperature_C": 31.9,
+        "humidity_percent": 84.4,
+        "solar_irradiance_Wm2": 687.9,
+        "cloud_cover_percent": 52.0
+    },
+    {
+        "timestamp": "2025-05-19T20:00:00",
+        "temperature_C": 28.0,
+        "humidity_percent": 79.8,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 56.2
+    },
+    {
+        "timestamp": "2025-05-19T21:00:00",
+        "temperature_C": 31.0,
+        "humidity_percent": 85.5,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 42.2
+    },
+    {
+        "timestamp": "2025-05-19T22:00:00",
+        "temperature_C": 28.9,
+        "humidity_percent": 82.2,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 55.4
+    },
+    {
+        "timestamp": "2025-05-19T23:00:00",
+        "temperature_C": 28.4,
+        "humidity_percent": 93.6,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 43.1
+    },
+    {
+        "timestamp": "2025-05-20T00:00:00",
+        "temperature_C": 29.8,
+        "humidity_percent": 81.3,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 62.4
+    },
+    {
+        "timestamp": "2025-05-20T01:00:00",
+        "temperature_C": 27.9,
+        "humidity_percent": 75.7,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 42.6
+    },
+    {
+        "timestamp": "2025-05-20T02:00:00",
+        "temperature_C": 28.9,
+        "humidity_percent": 81.2,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 57.5
+    },
+    {
+        "timestamp": "2025-05-20T03:00:00",
+        "temperature_C": 27.6,
+        "humidity_percent": 85.4,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 49.4
+    },
+    {
+        "timestamp": "2025-05-20T04:00:00",
+        "temperature_C": 33.9,
+        "humidity_percent": 80.5,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 72.5
+    },
+    {
+        "timestamp": "2025-05-20T05:00:00",
+        "temperature_C": 30.1,
+        "humidity_percent": 80.4,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 49.0
+    },
+    {
+        "timestamp": "2025-05-20T06:00:00",
+        "temperature_C": 28.6,
+        "humidity_percent": 73.0,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 14.5
+    },
+    {
+        "timestamp": "2025-05-20T07:00:00",
+        "temperature_C": 30.4,
+        "humidity_percent": 73.4,
+        "solar_irradiance_Wm2": 342.3,
+        "cloud_cover_percent": 75.2
+    },
+    {
+        "timestamp": "2025-05-20T08:00:00",
+        "temperature_C": 29.8,
+        "humidity_percent": 66.0,
+        "solar_irradiance_Wm2": 431.7,
+        "cloud_cover_percent": 31.9
+    },
+    {
+        "timestamp": "2025-05-20T09:00:00",
+        "temperature_C": 29.6,
+        "humidity_percent": 97.5,
+        "solar_irradiance_Wm2": 155.0,
+        "cloud_cover_percent": 36.9
+    },
+    {
+        "timestamp": "2025-05-20T10:00:00",
+        "temperature_C": 31.2,
+        "humidity_percent": 67.6,
+        "solar_irradiance_Wm2": 88.8,
+        "cloud_cover_percent": 38.1
+    },
+    {
+        "timestamp": "2025-05-20T11:00:00",
+        "temperature_C": 31.5,
+        "humidity_percent": 73.1,
+        "solar_irradiance_Wm2": 420.1,
+        "cloud_cover_percent": 77.5
+    },
+    {
+        "timestamp": "2025-05-20T12:00:00",
+        "temperature_C": 28.9,
+        "humidity_percent": 72.8,
+        "solar_irradiance_Wm2": 488.5,
+        "cloud_cover_percent": 7.3
+    },
+    {
+        "timestamp": "2025-05-20T13:00:00",
+        "temperature_C": 28.8,
+        "humidity_percent": 88.9,
+        "solar_irradiance_Wm2": 275.9,
+        "cloud_cover_percent": 100.0
+    },
+    {
+        "timestamp": "2025-05-20T14:00:00",
+        "temperature_C": 29.4,
+        "humidity_percent": 77.1,
+        "solar_irradiance_Wm2": 420.4,
+        "cloud_cover_percent": 71.1
+    },
+    {
+        "timestamp": "2025-05-20T15:00:00",
+        "temperature_C": 25.4,
+        "humidity_percent": 92.5,
+        "solar_irradiance_Wm2": 365.5,
+        "cloud_cover_percent": 54.5
+    },
+    {
+        "timestamp": "2025-05-20T16:00:00",
+        "temperature_C": 27.0,
+        "humidity_percent": 73.3,
+        "solar_irradiance_Wm2": 318.2,
+        "cloud_cover_percent": 48.9
+    },
+    {
+        "timestamp": "2025-05-20T17:00:00",
+        "temperature_C": 32.7,
+        "humidity_percent": 82.8,
+        "solar_irradiance_Wm2": 733.7,
+        "cloud_cover_percent": 55.7
+    },
+    {
+        "timestamp": "2025-05-20T18:00:00",
+        "temperature_C": 33.3,
+        "humidity_percent": 71.6,
+        "solar_irradiance_Wm2": 373.1,
+        "cloud_cover_percent": 60.4
+    },
+    {
+        "timestamp": "2025-05-20T19:00:00",
+        "temperature_C": 29.5,
+        "humidity_percent": 100.0,
+        "solar_irradiance_Wm2": 427.4,
+        "cloud_cover_percent": 62.9
+    },
+    {
+        "timestamp": "2025-05-20T20:00:00",
+        "temperature_C": 31.2,
+        "humidity_percent": 68.1,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 61.1
+    },
+    {
+        "timestamp": "2025-05-20T21:00:00",
+        "temperature_C": 30.6,
+        "humidity_percent": 83.1,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 51.8
+    },
+    {
+        "timestamp": "2025-05-20T22:00:00",
+        "temperature_C": 36.2,
+        "humidity_percent": 86.3,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 46.1
+    },
+    {
+        "timestamp": "2025-05-20T23:00:00",
+        "temperature_C": 32.2,
+        "humidity_percent": 84.1,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 47.0
+    },
+    {
+        "timestamp": "2025-05-21T00:00:00",
+        "temperature_C": 29.7,
+        "humidity_percent": 78.1,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 46.1
+    },
+    {
+        "timestamp": "2025-05-21T01:00:00",
+        "temperature_C": 28.1,
+        "humidity_percent": 78.7,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 72.7
+    },
+    {
+        "timestamp": "2025-05-21T02:00:00",
+        "temperature_C": 26.8,
+        "humidity_percent": 80.4,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 61.9
+    },
+    {
+        "timestamp": "2025-05-21T03:00:00",
+        "temperature_C": 30.4,
+        "humidity_percent": 78.5,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 0.0
+    },
+    {
+        "timestamp": "2025-05-21T04:00:00",
+        "temperature_C": 28.5,
+        "humidity_percent": 89.6,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 63.1
+    },
+    {
+        "timestamp": "2025-05-21T05:00:00",
+        "temperature_C": 27.2,
+        "humidity_percent": 100.0,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 53.9
+    },
+    {
+        "timestamp": "2025-05-21T06:00:00",
+        "temperature_C": 28.7,
+        "humidity_percent": 74.4,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 49.6
+    },
+    {
+        "timestamp": "2025-05-21T07:00:00",
+        "temperature_C": 27.8,
+        "humidity_percent": 66.3,
+        "solar_irradiance_Wm2": 433.4,
+        "cloud_cover_percent": 42.2
+    },
+    {
+        "timestamp": "2025-05-21T08:00:00",
+        "temperature_C": 33.4,
+        "humidity_percent": 79.1,
+        "solar_irradiance_Wm2": 153.2,
+        "cloud_cover_percent": 72.5
+    },
+    {
+        "timestamp": "2025-05-21T09:00:00",
+        "temperature_C": 31.8,
+        "humidity_percent": 100.0,
+        "solar_irradiance_Wm2": 650.6,
+        "cloud_cover_percent": 69.0
+    },
+    {
+        "timestamp": "2025-05-21T10:00:00",
+        "temperature_C": 30.0,
+        "humidity_percent": 72.0,
+        "solar_irradiance_Wm2": 209.8,
+        "cloud_cover_percent": 34.5
+    },
+    {
+        "timestamp": "2025-05-21T11:00:00",
+        "temperature_C": 33.0,
+        "humidity_percent": 96.4,
+        "solar_irradiance_Wm2": 355.7,
+        "cloud_cover_percent": 58.1
+    },
+    {
+        "timestamp": "2025-05-21T12:00:00",
+        "temperature_C": 30.2,
+        "humidity_percent": 96.8,
+        "solar_irradiance_Wm2": 545.4,
+        "cloud_cover_percent": 30.6
+    },
+    {
+        "timestamp": "2025-05-21T13:00:00",
+        "temperature_C": 28.3,
+        "humidity_percent": 74.5,
+        "solar_irradiance_Wm2": 208.9,
+        "cloud_cover_percent": 22.4
+    },
+    {
+        "timestamp": "2025-05-21T14:00:00",
+        "temperature_C": 33.0,
+        "humidity_percent": 85.7,
+        "solar_irradiance_Wm2": 301.5,
+        "cloud_cover_percent": 37.5
+    },
+    {
+        "timestamp": "2025-05-21T15:00:00",
+        "temperature_C": 31.1,
+        "humidity_percent": 96.3,
+        "solar_irradiance_Wm2": 262.4,
+        "cloud_cover_percent": 67.2
+    },
+    {
+        "timestamp": "2025-05-21T16:00:00",
+        "temperature_C": 27.9,
+        "humidity_percent": 76.2,
+        "solar_irradiance_Wm2": 264.4,
+        "cloud_cover_percent": 69.1
+    },
+    {
+        "timestamp": "2025-05-21T17:00:00",
+        "temperature_C": 29.6,
+        "humidity_percent": 78.0,
+        "solar_irradiance_Wm2": 554.4,
+        "cloud_cover_percent": 60.3
+    },
+    {
+        "timestamp": "2025-05-21T18:00:00",
+        "temperature_C": 28.2,
+        "humidity_percent": 74.2,
+        "solar_irradiance_Wm2": 465.0,
+        "cloud_cover_percent": 64.5
+    },
+    {
+        "timestamp": "2025-05-21T19:00:00",
+        "temperature_C": 27.2,
+        "humidity_percent": 69.9,
+        "solar_irradiance_Wm2": 622.4,
+        "cloud_cover_percent": 60.3
+    },
+    {
+        "timestamp": "2025-05-21T20:00:00",
+        "temperature_C": 31.9,
+        "humidity_percent": 73.5,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 37.2
+    },
+    {
+        "timestamp": "2025-05-21T21:00:00",
+        "temperature_C": 33.8,
+        "humidity_percent": 67.8,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 58.6
+    },
+    {
+        "timestamp": "2025-05-21T22:00:00",
+        "temperature_C": 27.2,
+        "humidity_percent": 80.3,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 66.0
+    },
+    {
+        "timestamp": "2025-05-21T23:00:00",
+        "temperature_C": 31.1,
+        "humidity_percent": 72.3,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 65.1
+    },
+    {
+        "timestamp": "2025-05-22T00:00:00",
+        "temperature_C": 28.7,
+        "humidity_percent": 82.3,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 73.8
+    },
+    {
+        "timestamp": "2025-05-22T01:00:00",
+        "temperature_C": 29.0,
+        "humidity_percent": 64.4,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 64.2
+    },
+    {
+        "timestamp": "2025-05-22T02:00:00",
+        "temperature_C": 28.8,
+        "humidity_percent": 83.3,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 57.0
+    },
+    {
+        "timestamp": "2025-05-22T03:00:00",
+        "temperature_C": 28.3,
+        "humidity_percent": 88.3,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 71.4
+    },
+    {
+        "timestamp": "2025-05-22T04:00:00",
+        "temperature_C": 30.1,
+        "humidity_percent": 60.1,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 49.5
+    },
+    {
+        "timestamp": "2025-05-22T05:00:00",
+        "temperature_C": 28.3,
+        "humidity_percent": 83.7,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 32.4
+    },
+    {
+        "timestamp": "2025-05-22T06:00:00",
+        "temperature_C": 30.5,
+        "humidity_percent": 92.3,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 46.7
+    },
+    {
+        "timestamp": "2025-05-22T07:00:00",
+        "temperature_C": 29.9,
+        "humidity_percent": 67.9,
+        "solar_irradiance_Wm2": 568.0,
+        "cloud_cover_percent": 35.1
+    },
+    {
+        "timestamp": "2025-05-22T08:00:00",
+        "temperature_C": 29.5,
+        "humidity_percent": 96.7,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 36.5
+    },
+    {
+        "timestamp": "2025-05-22T09:00:00",
+        "temperature_C": 28.2,
+        "humidity_percent": 84.2,
+        "solar_irradiance_Wm2": 184.0,
+        "cloud_cover_percent": 47.1
+    },
+    {
+        "timestamp": "2025-05-22T10:00:00",
+        "temperature_C": 28.8,
+        "humidity_percent": 72.9,
+        "solar_irradiance_Wm2": 667.0,
+        "cloud_cover_percent": 34.2
+    },
+    {
+        "timestamp": "2025-05-22T11:00:00",
+        "temperature_C": 31.5,
+        "humidity_percent": 79.4,
+        "solar_irradiance_Wm2": 572.6,
+        "cloud_cover_percent": 43.8
+    },
+    {
+        "timestamp": "2025-05-22T12:00:00",
+        "temperature_C": 31.0,
+        "humidity_percent": 85.6,
+        "solar_irradiance_Wm2": 318.1,
+        "cloud_cover_percent": 12.1
+    },
+    {
+        "timestamp": "2025-05-22T13:00:00",
+        "temperature_C": 28.0,
+        "humidity_percent": 80.8,
+        "solar_irradiance_Wm2": 341.7,
+        "cloud_cover_percent": 54.3
+    },
+    {
+        "timestamp": "2025-05-22T14:00:00",
+        "temperature_C": 30.2,
+        "humidity_percent": 85.4,
+        "solar_irradiance_Wm2": 240.4,
+        "cloud_cover_percent": 50.0
+    },
+    {
+        "timestamp": "2025-05-22T15:00:00",
+        "temperature_C": 31.5,
+        "humidity_percent": 70.8,
+        "solar_irradiance_Wm2": 388.4,
+        "cloud_cover_percent": 33.7
+    },
+    {
+        "timestamp": "2025-05-22T16:00:00",
+        "temperature_C": 26.7,
+        "humidity_percent": 81.7,
+        "solar_irradiance_Wm2": 436.9,
+        "cloud_cover_percent": 63.2
+    },
+    {
+        "timestamp": "2025-05-22T17:00:00",
+        "temperature_C": 31.1,
+        "humidity_percent": 65.9,
+        "solar_irradiance_Wm2": 401.4,
+        "cloud_cover_percent": 68.8
+    },
+    {
+        "timestamp": "2025-05-22T18:00:00",
+        "temperature_C": 28.7,
+        "humidity_percent": 78.9,
+        "solar_irradiance_Wm2": 299.8,
+        "cloud_cover_percent": 17.8
+    },
+    {
+        "timestamp": "2025-05-22T19:00:00",
+        "temperature_C": 31.1,
+        "humidity_percent": 71.0,
+        "solar_irradiance_Wm2": 673.0,
+        "cloud_cover_percent": 34.7
+    },
+    {
+        "timestamp": "2025-05-22T20:00:00",
+        "temperature_C": 28.5,
+        "humidity_percent": 72.6,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 34.6
+    },
+    {
+        "timestamp": "2025-05-22T21:00:00",
+        "temperature_C": 26.4,
+        "humidity_percent": 92.4,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 31.2
+    },
+    {
+        "timestamp": "2025-05-22T22:00:00",
+        "temperature_C": 26.7,
+        "humidity_percent": 90.9,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 66.6
+    },
+    {
+        "timestamp": "2025-05-22T23:00:00",
+        "temperature_C": 30.1,
+        "humidity_percent": 86.1,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 46.1
+    },
+    {
+        "timestamp": "2025-05-23T00:00:00",
+        "temperature_C": 30.5,
+        "humidity_percent": 69.1,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 44.7
+    },
+    {
+        "timestamp": "2025-05-23T01:00:00",
+        "temperature_C": 28.2,
+        "humidity_percent": 76.8,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 9.9
+    },
+    {
+        "timestamp": "2025-05-23T02:00:00",
+        "temperature_C": 31.3,
+        "humidity_percent": 92.1,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 62.7
+    },
+    {
+        "timestamp": "2025-05-23T03:00:00",
+        "temperature_C": 26.7,
+        "humidity_percent": 81.4,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 25.2
+    },
+    {
+        "timestamp": "2025-05-23T04:00:00",
+        "temperature_C": 29.9,
+        "humidity_percent": 100.0,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 51.2
+    },
+    {
+        "timestamp": "2025-05-23T05:00:00",
+        "temperature_C": 27.6,
+        "humidity_percent": 83.9,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 55.5
+    },
+    {
+        "timestamp": "2025-05-23T06:00:00",
+        "temperature_C": 28.7,
+        "humidity_percent": 81.9,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 77.2
+    },
+    {
+        "timestamp": "2025-05-23T07:00:00",
+        "temperature_C": 30.1,
+        "humidity_percent": 76.9,
+        "solar_irradiance_Wm2": 415.5,
+        "cloud_cover_percent": 23.8
+    },
+    {
+        "timestamp": "2025-05-23T08:00:00",
+        "temperature_C": 28.3,
+        "humidity_percent": 81.3,
+        "solar_irradiance_Wm2": 582.5,
+        "cloud_cover_percent": 0.0
+    },
+    {
+        "timestamp": "2025-05-23T09:00:00",
+        "temperature_C": 29.2,
+        "humidity_percent": 78.5,
+        "solar_irradiance_Wm2": 385.0,
+        "cloud_cover_percent": 53.7
+    },
+    {
+        "timestamp": "2025-05-23T10:00:00",
+        "temperature_C": 32.0,
+        "humidity_percent": 87.1,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 86.0
+    },
+    {
+        "timestamp": "2025-05-23T11:00:00",
+        "temperature_C": 28.8,
+        "humidity_percent": 89.6,
+        "solar_irradiance_Wm2": 335.2,
+        "cloud_cover_percent": 74.8
+    },
+    {
+        "timestamp": "2025-05-23T12:00:00",
+        "temperature_C": 31.7,
+        "humidity_percent": 72.1,
+        "solar_irradiance_Wm2": 416.4,
+        "cloud_cover_percent": 54.2
+    },
+    {
+        "timestamp": "2025-05-23T13:00:00",
+        "temperature_C": 27.7,
+        "humidity_percent": 66.7,
+        "solar_irradiance_Wm2": 200.4,
+        "cloud_cover_percent": 40.2
+    },
+    {
+        "timestamp": "2025-05-23T14:00:00",
+        "temperature_C": 31.1,
+        "humidity_percent": 61.6,
+        "solar_irradiance_Wm2": 253.8,
+        "cloud_cover_percent": 66.1
+    },
+    {
+        "timestamp": "2025-05-23T15:00:00",
+        "temperature_C": 32.9,
+        "humidity_percent": 85.1,
+        "solar_irradiance_Wm2": 332.4,
+        "cloud_cover_percent": 30.5
+    },
+    {
+        "timestamp": "2025-05-23T16:00:00",
+        "temperature_C": 25.1,
+        "humidity_percent": 69.0,
+        "solar_irradiance_Wm2": 362.7,
+        "cloud_cover_percent": 59.5
+    },
+    {
+        "timestamp": "2025-05-23T17:00:00",
+        "temperature_C": 28.4,
+        "humidity_percent": 58.5,
+        "solar_irradiance_Wm2": 79.9,
+        "cloud_cover_percent": 60.1
+    },
+    {
+        "timestamp": "2025-05-23T18:00:00",
+        "temperature_C": 31.2,
+        "humidity_percent": 83.9,
+        "solar_irradiance_Wm2": 716.7,
+        "cloud_cover_percent": 71.2
+    },
+    {
+        "timestamp": "2025-05-23T19:00:00",
+        "temperature_C": 29.6,
+        "humidity_percent": 100.0,
+        "solar_irradiance_Wm2": 347.3,
+        "cloud_cover_percent": 100.0
+    },
+    {
+        "timestamp": "2025-05-23T20:00:00",
+        "temperature_C": 30.7,
+        "humidity_percent": 79.9,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 57.8
+    },
+    {
+        "timestamp": "2025-05-23T21:00:00",
+        "temperature_C": 28.8,
+        "humidity_percent": 88.4,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 39.8
+    },
+    {
+        "timestamp": "2025-05-23T22:00:00",
+        "temperature_C": 30.2,
+        "humidity_percent": 80.8,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 49.5
+    },
+    {
+        "timestamp": "2025-05-23T23:00:00",
+        "temperature_C": 29.7,
+        "humidity_percent": 79.0,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 14.6
+    },
+    {
+        "timestamp": "2025-05-24T00:00:00",
+        "temperature_C": 32.3,
+        "humidity_percent": 89.2,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 36.1
+    },
+    {
+        "timestamp": "2025-05-24T01:00:00",
+        "temperature_C": 30.5,
+        "humidity_percent": 77.1,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 41.8
+    },
+    {
+        "timestamp": "2025-05-24T02:00:00",
+        "temperature_C": 30.7,
+        "humidity_percent": 82.7,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 39.5
+    },
+    {
+        "timestamp": "2025-05-24T03:00:00",
+        "temperature_C": 29.2,
+        "humidity_percent": 83.2,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 53.0
+    },
+    {
+        "timestamp": "2025-05-24T04:00:00",
+        "temperature_C": 29.0,
+        "humidity_percent": 73.3,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 33.6
+    },
+    {
+        "timestamp": "2025-05-24T05:00:00",
+        "temperature_C": 29.1,
+        "humidity_percent": 89.9,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 72.4
+    },
+    {
+        "timestamp": "2025-05-24T06:00:00",
+        "temperature_C": 30.8,
+        "humidity_percent": 78.3,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 50.0
+    },
+    {
+        "timestamp": "2025-05-24T07:00:00",
+        "temperature_C": 29.2,
+        "humidity_percent": 72.4,
+        "solar_irradiance_Wm2": 588.7,
+        "cloud_cover_percent": 49.8
+    },
+    {
+        "timestamp": "2025-05-24T08:00:00",
+        "temperature_C": 30.6,
+        "humidity_percent": 85.4,
+        "solar_irradiance_Wm2": 372.2,
+        "cloud_cover_percent": 43.4
+    },
+    {
+        "timestamp": "2025-05-24T09:00:00",
+        "temperature_C": 34.2,
+        "humidity_percent": 71.0,
+        "solar_irradiance_Wm2": 551.8,
+        "cloud_cover_percent": 53.1
+    },
+    {
+        "timestamp": "2025-05-24T10:00:00",
+        "temperature_C": 31.7,
+        "humidity_percent": 80.3,
+        "solar_irradiance_Wm2": 472.0,
+        "cloud_cover_percent": 66.5
+    },
+    {
+        "timestamp": "2025-05-24T11:00:00",
+        "temperature_C": 29.3,
+        "humidity_percent": 79.9,
+        "solar_irradiance_Wm2": 498.1,
+        "cloud_cover_percent": 32.7
+    },
+    {
+        "timestamp": "2025-05-24T12:00:00",
+        "temperature_C": 32.4,
+        "humidity_percent": 90.9,
+        "solar_irradiance_Wm2": 199.4,
+        "cloud_cover_percent": 36.8
+    },
+    {
+        "timestamp": "2025-05-24T13:00:00",
+        "temperature_C": 29.2,
+        "humidity_percent": 84.7,
+        "solar_irradiance_Wm2": 209.7,
+        "cloud_cover_percent": 43.9
+    },
+    {
+        "timestamp": "2025-05-24T14:00:00",
+        "temperature_C": 25.9,
+        "humidity_percent": 79.7,
+        "solar_irradiance_Wm2": 714.7,
+        "cloud_cover_percent": 23.1
+    },
+    {
+        "timestamp": "2025-05-24T15:00:00",
+        "temperature_C": 28.0,
+        "humidity_percent": 88.2,
+        "solar_irradiance_Wm2": 335.0,
+        "cloud_cover_percent": 33.6
+    },
+    {
+        "timestamp": "2025-05-24T16:00:00",
+        "temperature_C": 26.3,
+        "humidity_percent": 93.9,
+        "solar_irradiance_Wm2": 457.7,
+        "cloud_cover_percent": 40.5
+    },
+    {
+        "timestamp": "2025-05-24T17:00:00",
+        "temperature_C": 29.3,
+        "humidity_percent": 85.6,
+        "solar_irradiance_Wm2": 556.3,
+        "cloud_cover_percent": 67.5
+    },
+    {
+        "timestamp": "2025-05-24T18:00:00",
+        "temperature_C": 30.0,
+        "humidity_percent": 80.1,
+        "solar_irradiance_Wm2": 407.0,
+        "cloud_cover_percent": 55.3
+    },
+    {
+        "timestamp": "2025-05-24T19:00:00",
+        "temperature_C": 33.4,
+        "humidity_percent": 66.9,
+        "solar_irradiance_Wm2": 456.7,
+        "cloud_cover_percent": 53.9
+    },
+    {
+        "timestamp": "2025-05-24T20:00:00",
+        "temperature_C": 30.7,
+        "humidity_percent": 69.3,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 67.0
+    },
+    {
+        "timestamp": "2025-05-24T21:00:00",
+        "temperature_C": 29.6,
+        "humidity_percent": 76.9,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 47.3
+    },
+    {
+        "timestamp": "2025-05-24T22:00:00",
+        "temperature_C": 31.7,
+        "humidity_percent": 73.9,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 57.8
+    },
+    {
+        "timestamp": "2025-05-24T23:00:00",
+        "temperature_C": 25.6,
+        "humidity_percent": 78.1,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 47.9
+    },
+    {
+        "timestamp": "2025-05-25T00:00:00",
+        "temperature_C": 30.5,
+        "humidity_percent": 80.6,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 55.3
+    },
+    {
+        "timestamp": "2025-05-25T01:00:00",
+        "temperature_C": 31.5,
+        "humidity_percent": 85.3,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 38.3
+    },
+    {
+        "timestamp": "2025-05-25T02:00:00",
+        "temperature_C": 27.0,
+        "humidity_percent": 79.3,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 1.2
+    },
+    {
+        "timestamp": "2025-05-25T03:00:00",
+        "temperature_C": 32.3,
+        "humidity_percent": 84.9,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 47.3
+    },
+    {
+        "timestamp": "2025-05-25T04:00:00",
+        "temperature_C": 30.7,
+        "humidity_percent": 80.6,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 78.5
+    },
+    {
+        "timestamp": "2025-05-25T05:00:00",
+        "temperature_C": 29.2,
+        "humidity_percent": 60.2,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 68.5
+    },
+    {
+        "timestamp": "2025-05-25T06:00:00",
+        "temperature_C": 31.3,
+        "humidity_percent": 70.6,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 69.3
+    },
+    {
+        "timestamp": "2025-05-25T07:00:00",
+        "temperature_C": 34.5,
+        "humidity_percent": 78.6,
+        "solar_irradiance_Wm2": 12.8,
+        "cloud_cover_percent": 74.7
+    },
+    {
+        "timestamp": "2025-05-25T08:00:00",
+        "temperature_C": 30.4,
+        "humidity_percent": 67.9,
+        "solar_irradiance_Wm2": 267.5,
+        "cloud_cover_percent": 51.8
+    },
+    {
+        "timestamp": "2025-05-25T09:00:00",
+        "temperature_C": 30.5,
+        "humidity_percent": 86.0,
+        "solar_irradiance_Wm2": 723.6,
+        "cloud_cover_percent": 53.9
+    },
+    {
+        "timestamp": "2025-05-25T10:00:00",
+        "temperature_C": 29.1,
+        "humidity_percent": 95.3,
+        "solar_irradiance_Wm2": 445.0,
+        "cloud_cover_percent": 37.6
+    },
+    {
+        "timestamp": "2025-05-25T11:00:00",
+        "temperature_C": 28.3,
+        "humidity_percent": 92.2,
+        "solar_irradiance_Wm2": 250.8,
+        "cloud_cover_percent": 43.7
+    },
+    {
+        "timestamp": "2025-05-25T12:00:00",
+        "temperature_C": 31.7,
+        "humidity_percent": 77.9,
+        "solar_irradiance_Wm2": 55.0,
+        "cloud_cover_percent": 62.3
+    },
+    {
+        "timestamp": "2025-05-25T13:00:00",
+        "temperature_C": 28.3,
+        "humidity_percent": 94.9,
+        "solar_irradiance_Wm2": 691.3,
+        "cloud_cover_percent": 74.1
+    },
+    {
+        "timestamp": "2025-05-25T14:00:00",
+        "temperature_C": 30.1,
+        "humidity_percent": 81.5,
+        "solar_irradiance_Wm2": 682.4,
+        "cloud_cover_percent": 47.2
+    },
+    {
+        "timestamp": "2025-05-25T15:00:00",
+        "temperature_C": 29.0,
+        "humidity_percent": 76.6,
+        "solar_irradiance_Wm2": 78.0,
+        "cloud_cover_percent": 41.0
+    },
+    {
+        "timestamp": "2025-05-25T16:00:00",
+        "temperature_C": 31.0,
+        "humidity_percent": 73.9,
+        "solar_irradiance_Wm2": 354.5,
+        "cloud_cover_percent": 50.0
+    },
+    {
+        "timestamp": "2025-05-25T17:00:00",
+        "temperature_C": 30.7,
+        "humidity_percent": 77.0,
+        "solar_irradiance_Wm2": 416.3,
+        "cloud_cover_percent": 62.0
+    },
+    {
+        "timestamp": "2025-05-25T18:00:00",
+        "temperature_C": 32.1,
+        "humidity_percent": 76.1,
+        "solar_irradiance_Wm2": 382.9,
+        "cloud_cover_percent": 21.1
+    },
+    {
+        "timestamp": "2025-05-25T19:00:00",
+        "temperature_C": 29.0,
+        "humidity_percent": 81.7,
+        "solar_irradiance_Wm2": 849.5,
+        "cloud_cover_percent": 4.1
+    },
+    {
+        "timestamp": "2025-05-25T20:00:00",
+        "temperature_C": 29.5,
+        "humidity_percent": 81.6,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 39.0
+    },
+    {
+        "timestamp": "2025-05-25T21:00:00",
+        "temperature_C": 28.0,
+        "humidity_percent": 80.0,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 25.6
+    },
+    {
+        "timestamp": "2025-05-25T22:00:00",
+        "temperature_C": 29.1,
+        "humidity_percent": 84.4,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 39.8
+    },
+    {
+        "timestamp": "2025-05-25T23:00:00",
+        "temperature_C": 30.8,
+        "humidity_percent": 91.9,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 47.0
+    },
+    {
+        "timestamp": "2025-05-26T00:00:00",
+        "temperature_C": 31.5,
+        "humidity_percent": 89.5,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 40.9
+    },
+    {
+        "timestamp": "2025-05-26T01:00:00",
+        "temperature_C": 28.2,
+        "humidity_percent": 65.2,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 79.0
+    },
+    {
+        "timestamp": "2025-05-26T02:00:00",
+        "temperature_C": 31.7,
+        "humidity_percent": 54.5,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 56.5
+    },
+    {
+        "timestamp": "2025-05-26T03:00:00",
+        "temperature_C": 32.7,
+        "humidity_percent": 89.3,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 56.0
+    },
+    {
+        "timestamp": "2025-05-26T04:00:00",
+        "temperature_C": 30.8,
+        "humidity_percent": 66.3,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 62.4
+    },
+    {
+        "timestamp": "2025-05-26T05:00:00",
+        "temperature_C": 33.8,
+        "humidity_percent": 77.8,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 27.2
+    },
+    {
+        "timestamp": "2025-05-26T06:00:00",
+        "temperature_C": 28.5,
+        "humidity_percent": 68.3,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 70.8
+    },
+    {
+        "timestamp": "2025-05-26T07:00:00",
+        "temperature_C": 27.5,
+        "humidity_percent": 62.0,
+        "solar_irradiance_Wm2": 344.5,
+        "cloud_cover_percent": 48.5
+    },
+    {
+        "timestamp": "2025-05-26T08:00:00",
+        "temperature_C": 26.4,
+        "humidity_percent": 85.4,
+        "solar_irradiance_Wm2": 421.8,
+        "cloud_cover_percent": 63.4
+    },
+    {
+        "timestamp": "2025-05-26T09:00:00",
+        "temperature_C": 33.0,
+        "humidity_percent": 87.6,
+        "solar_irradiance_Wm2": 279.2,
+        "cloud_cover_percent": 28.6
+    },
+    {
+        "timestamp": "2025-05-26T10:00:00",
+        "temperature_C": 31.3,
+        "humidity_percent": 74.2,
+        "solar_irradiance_Wm2": 619.1,
+        "cloud_cover_percent": 18.9
+    },
+    {
+        "timestamp": "2025-05-26T11:00:00",
+        "temperature_C": 29.9,
+        "humidity_percent": 54.1,
+        "solar_irradiance_Wm2": 386.3,
+        "cloud_cover_percent": 66.4
+    },
+    {
+        "timestamp": "2025-05-26T12:00:00",
+        "temperature_C": 30.6,
+        "humidity_percent": 74.5,
+        "solar_irradiance_Wm2": 600.8,
+        "cloud_cover_percent": 57.5
+    },
+    {
+        "timestamp": "2025-05-26T13:00:00",
+        "temperature_C": 27.7,
+        "humidity_percent": 83.9,
+        "solar_irradiance_Wm2": 309.8,
+        "cloud_cover_percent": 32.0
+    },
+    {
+        "timestamp": "2025-05-26T14:00:00",
+        "temperature_C": 34.9,
+        "humidity_percent": 65.2,
+        "solar_irradiance_Wm2": 647.8,
+        "cloud_cover_percent": 32.6
+    },
+    {
+        "timestamp": "2025-05-26T15:00:00",
+        "temperature_C": 30.3,
+        "humidity_percent": 81.8,
+        "solar_irradiance_Wm2": 462.4,
+        "cloud_cover_percent": 72.5
+    },
+    {
+        "timestamp": "2025-05-26T16:00:00",
+        "temperature_C": 30.2,
+        "humidity_percent": 79.8,
+        "solar_irradiance_Wm2": 676.8,
+        "cloud_cover_percent": 26.2
+    },
+    {
+        "timestamp": "2025-05-26T17:00:00",
+        "temperature_C": 31.5,
+        "humidity_percent": 85.8,
+        "solar_irradiance_Wm2": 246.6,
+        "cloud_cover_percent": 82.9
+    },
+    {
+        "timestamp": "2025-05-26T18:00:00",
+        "temperature_C": 31.0,
+        "humidity_percent": 81.2,
+        "solar_irradiance_Wm2": 285.3,
+        "cloud_cover_percent": 32.0
+    },
+    {
+        "timestamp": "2025-05-26T19:00:00",
+        "temperature_C": 30.4,
+        "humidity_percent": 70.3,
+        "solar_irradiance_Wm2": 412.4,
+        "cloud_cover_percent": 62.8
+    },
+    {
+        "timestamp": "2025-05-26T20:00:00",
+        "temperature_C": 28.4,
+        "humidity_percent": 92.0,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 43.4
+    },
+    {
+        "timestamp": "2025-05-26T21:00:00",
+        "temperature_C": 30.9,
+        "humidity_percent": 78.4,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 62.1
+    },
+    {
+        "timestamp": "2025-05-26T22:00:00",
+        "temperature_C": 33.8,
+        "humidity_percent": 79.7,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 39.1
+    },
+    {
+        "timestamp": "2025-05-26T23:00:00",
+        "temperature_C": 32.7,
+        "humidity_percent": 70.7,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 46.7
+    },
+    {
+        "timestamp": "2025-05-27T00:00:00",
+        "temperature_C": 33.2,
+        "humidity_percent": 75.6,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 50.8
+    },
+    {
+        "timestamp": "2025-05-27T01:00:00",
+        "temperature_C": 29.0,
+        "humidity_percent": 71.2,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 30.0
+    },
+    {
+        "timestamp": "2025-05-27T02:00:00",
+        "temperature_C": 28.0,
+        "humidity_percent": 78.3,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 64.8
+    },
+    {
+        "timestamp": "2025-05-27T03:00:00",
+        "temperature_C": 29.7,
+        "humidity_percent": 97.1,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 39.7
+    },
+    {
+        "timestamp": "2025-05-27T04:00:00",
+        "temperature_C": 30.1,
+        "humidity_percent": 66.3,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 45.4
+    },
+    {
+        "timestamp": "2025-05-27T05:00:00",
+        "temperature_C": 32.2,
+        "humidity_percent": 63.9,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 30.1
+    },
+    {
+        "timestamp": "2025-05-27T06:00:00",
+        "temperature_C": 26.6,
+        "humidity_percent": 94.7,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 0.0
+    },
+    {
+        "timestamp": "2025-05-27T07:00:00",
+        "temperature_C": 33.1,
+        "humidity_percent": 77.9,
+        "solar_irradiance_Wm2": 469.7,
+        "cloud_cover_percent": 46.2
+    },
+    {
+        "timestamp": "2025-05-27T08:00:00",
+        "temperature_C": 29.7,
+        "humidity_percent": 73.3,
+        "solar_irradiance_Wm2": 735.2,
+        "cloud_cover_percent": 98.3
+    },
+    {
+        "timestamp": "2025-05-27T09:00:00",
+        "temperature_C": 29.1,
+        "humidity_percent": 90.4,
+        "solar_irradiance_Wm2": 385.8,
+        "cloud_cover_percent": 65.7
+    },
+    {
+        "timestamp": "2025-05-27T10:00:00",
+        "temperature_C": 28.0,
+        "humidity_percent": 73.9,
+        "solar_irradiance_Wm2": 369.8,
+        "cloud_cover_percent": 49.6
+    },
+    {
+        "timestamp": "2025-05-27T11:00:00",
+        "temperature_C": 26.7,
+        "humidity_percent": 98.3,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 44.7
+    },
+    {
+        "timestamp": "2025-05-27T12:00:00",
+        "temperature_C": 31.6,
+        "humidity_percent": 86.8,
+        "solar_irradiance_Wm2": 650.2,
+        "cloud_cover_percent": 50.4
+    },
+    {
+        "timestamp": "2025-05-27T13:00:00",
+        "temperature_C": 30.1,
+        "humidity_percent": 75.1,
+        "solar_irradiance_Wm2": 161.8,
+        "cloud_cover_percent": 60.9
+    },
+    {
+        "timestamp": "2025-05-27T14:00:00",
+        "temperature_C": 27.4,
+        "humidity_percent": 100.0,
+        "solar_irradiance_Wm2": 245.3,
+        "cloud_cover_percent": 26.4
+    },
+    {
+        "timestamp": "2025-05-27T15:00:00",
+        "temperature_C": 27.4,
+        "humidity_percent": 73.9,
+        "solar_irradiance_Wm2": 276.1,
+        "cloud_cover_percent": 72.3
+    },
+    {
+        "timestamp": "2025-05-27T16:00:00",
+        "temperature_C": 29.3,
+        "humidity_percent": 87.4,
+        "solar_irradiance_Wm2": 144.3,
+        "cloud_cover_percent": 64.3
+    },
+    {
+        "timestamp": "2025-05-27T17:00:00",
+        "temperature_C": 33.3,
+        "humidity_percent": 83.0,
+        "solar_irradiance_Wm2": 324.3,
+        "cloud_cover_percent": 64.4
+    },
+    {
+        "timestamp": "2025-05-27T18:00:00",
+        "temperature_C": 29.5,
+        "humidity_percent": 93.0,
+        "solar_irradiance_Wm2": 298.5,
+        "cloud_cover_percent": 58.8
+    },
+    {
+        "timestamp": "2025-05-27T19:00:00",
+        "temperature_C": 27.0,
+        "humidity_percent": 95.6,
+        "solar_irradiance_Wm2": 385.0,
+        "cloud_cover_percent": 50.4
+    },
+    {
+        "timestamp": "2025-05-27T20:00:00",
+        "temperature_C": 29.5,
+        "humidity_percent": 80.3,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 63.5
+    },
+    {
+        "timestamp": "2025-05-27T21:00:00",
+        "temperature_C": 29.5,
+        "humidity_percent": 72.5,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 61.8
+    },
+    {
+        "timestamp": "2025-05-27T22:00:00",
+        "temperature_C": 24.6,
+        "humidity_percent": 84.6,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 42.9
+    },
+    {
+        "timestamp": "2025-05-27T23:00:00",
+        "temperature_C": 29.9,
+        "humidity_percent": 73.2,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 38.5
+    },
+    {
+        "timestamp": "2025-05-28T00:00:00",
+        "temperature_C": 29.5,
+        "humidity_percent": 100.0,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 52.0
+    },
+    {
+        "timestamp": "2025-05-28T01:00:00",
+        "temperature_C": 31.4,
+        "humidity_percent": 81.4,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 81.0
+    },
+    {
+        "timestamp": "2025-05-28T02:00:00",
+        "temperature_C": 33.7,
+        "humidity_percent": 76.3,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 25.2
+    },
+    {
+        "timestamp": "2025-05-28T03:00:00",
+        "temperature_C": 32.3,
+        "humidity_percent": 81.8,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 20.6
+    },
+    {
+        "timestamp": "2025-05-28T04:00:00",
+        "temperature_C": 29.5,
+        "humidity_percent": 66.5,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 53.3
+    },
+    {
+        "timestamp": "2025-05-28T05:00:00",
+        "temperature_C": 27.8,
+        "humidity_percent": 70.3,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 51.0
+    },
+    {
+        "timestamp": "2025-05-28T06:00:00",
+        "temperature_C": 35.1,
+        "humidity_percent": 92.0,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 53.5
+    },
+    {
+        "timestamp": "2025-05-28T07:00:00",
+        "temperature_C": 30.1,
+        "humidity_percent": 73.4,
+        "solar_irradiance_Wm2": 203.5,
+        "cloud_cover_percent": 54.9
+    },
+    {
+        "timestamp": "2025-05-28T08:00:00",
+        "temperature_C": 30.0,
+        "humidity_percent": 69.5,
+        "solar_irradiance_Wm2": 222.0,
+        "cloud_cover_percent": 45.5
+    },
+    {
+        "timestamp": "2025-05-28T09:00:00",
+        "temperature_C": 30.0,
+        "humidity_percent": 85.4,
+        "solar_irradiance_Wm2": 377.0,
+        "cloud_cover_percent": 79.8
+    },
+    {
+        "timestamp": "2025-05-28T10:00:00",
+        "temperature_C": 30.4,
+        "humidity_percent": 91.9,
+        "solar_irradiance_Wm2": 479.7,
+        "cloud_cover_percent": 18.0
+    },
+    {
+        "timestamp": "2025-05-28T11:00:00",
+        "temperature_C": 29.7,
+        "humidity_percent": 87.2,
+        "solar_irradiance_Wm2": 362.2,
+        "cloud_cover_percent": 33.4
+    },
+    {
+        "timestamp": "2025-05-28T12:00:00",
+        "temperature_C": 28.9,
+        "humidity_percent": 90.0,
+        "solar_irradiance_Wm2": 482.5,
+        "cloud_cover_percent": 47.9
+    },
+    {
+        "timestamp": "2025-05-28T13:00:00",
+        "temperature_C": 28.9,
+        "humidity_percent": 72.4,
+        "solar_irradiance_Wm2": 399.9,
+        "cloud_cover_percent": 17.1
+    },
+    {
+        "timestamp": "2025-05-28T14:00:00",
+        "temperature_C": 29.9,
+        "humidity_percent": 65.8,
+        "solar_irradiance_Wm2": 173.2,
+        "cloud_cover_percent": 46.5
+    },
+    {
+        "timestamp": "2025-05-28T15:00:00",
+        "temperature_C": 28.9,
+        "humidity_percent": 95.0,
+        "solar_irradiance_Wm2": 577.3,
+        "cloud_cover_percent": 83.2
+    },
+    {
+        "timestamp": "2025-05-28T16:00:00",
+        "temperature_C": 28.6,
+        "humidity_percent": 76.8,
+        "solar_irradiance_Wm2": 387.0,
+        "cloud_cover_percent": 50.4
+    },
+    {
+        "timestamp": "2025-05-28T17:00:00",
+        "temperature_C": 30.2,
+        "humidity_percent": 77.5,
+        "solar_irradiance_Wm2": 425.4,
+        "cloud_cover_percent": 54.6
+    },
+    {
+        "timestamp": "2025-05-28T18:00:00",
+        "temperature_C": 29.5,
+        "humidity_percent": 93.3,
+        "solar_irradiance_Wm2": 259.3,
+        "cloud_cover_percent": 24.8
+    },
+    {
+        "timestamp": "2025-05-28T19:00:00",
+        "temperature_C": 33.0,
+        "humidity_percent": 85.6,
+        "solar_irradiance_Wm2": 923.7,
+        "cloud_cover_percent": 37.7
+    },
+    {
+        "timestamp": "2025-05-28T20:00:00",
+        "temperature_C": 24.7,
+        "humidity_percent": 84.6,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 42.5
+    },
+    {
+        "timestamp": "2025-05-28T21:00:00",
+        "temperature_C": 32.2,
+        "humidity_percent": 100.0,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 43.6
+    },
+    {
+        "timestamp": "2025-05-28T22:00:00",
+        "temperature_C": 32.5,
+        "humidity_percent": 73.6,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 75.6
+    },
+    {
+        "timestamp": "2025-05-28T23:00:00",
+        "temperature_C": 25.9,
+        "humidity_percent": 89.3,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 61.2
+    },
+    {
+        "timestamp": "2025-05-29T00:00:00",
+        "temperature_C": 29.3,
+        "humidity_percent": 80.6,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 27.8
+    },
+    {
+        "timestamp": "2025-05-29T01:00:00",
+        "temperature_C": 29.3,
+        "humidity_percent": 82.7,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 54.9
+    },
+    {
+        "timestamp": "2025-05-29T02:00:00",
+        "temperature_C": 27.2,
+        "humidity_percent": 95.3,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 60.0
+    },
+    {
+        "timestamp": "2025-05-29T03:00:00",
+        "temperature_C": 28.4,
+        "humidity_percent": 85.1,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 72.8
+    },
+    {
+        "timestamp": "2025-05-29T04:00:00",
+        "temperature_C": 27.8,
+        "humidity_percent": 85.4,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 81.6
+    },
+    {
+        "timestamp": "2025-05-29T05:00:00",
+        "temperature_C": 33.5,
+        "humidity_percent": 90.7,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 29.7
+    },
+    {
+        "timestamp": "2025-05-29T06:00:00",
+        "temperature_C": 31.9,
+        "humidity_percent": 76.4,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 33.8
+    },
+    {
+        "timestamp": "2025-05-29T07:00:00",
+        "temperature_C": 32.5,
+        "humidity_percent": 71.6,
+        "solar_irradiance_Wm2": 619.5,
+        "cloud_cover_percent": 24.8
+    },
+    {
+        "timestamp": "2025-05-29T08:00:00",
+        "temperature_C": 31.4,
+        "humidity_percent": 69.6,
+        "solar_irradiance_Wm2": 452.3,
+        "cloud_cover_percent": 45.3
+    },
+    {
+        "timestamp": "2025-05-29T09:00:00",
+        "temperature_C": 27.7,
+        "humidity_percent": 60.3,
+        "solar_irradiance_Wm2": 206.7,
+        "cloud_cover_percent": 59.3
+    },
+    {
+        "timestamp": "2025-05-29T10:00:00",
+        "temperature_C": 29.0,
+        "humidity_percent": 100.0,
+        "solar_irradiance_Wm2": 399.7,
+        "cloud_cover_percent": 69.7
+    },
+    {
+        "timestamp": "2025-05-29T11:00:00",
+        "temperature_C": 31.0,
+        "humidity_percent": 69.0,
+        "solar_irradiance_Wm2": 771.1,
+        "cloud_cover_percent": 48.5
+    },
+    {
+        "timestamp": "2025-05-29T12:00:00",
+        "temperature_C": 27.6,
+        "humidity_percent": 77.8,
+        "solar_irradiance_Wm2": 283.5,
+        "cloud_cover_percent": 43.6
+    },
+    {
+        "timestamp": "2025-05-29T13:00:00",
+        "temperature_C": 31.4,
+        "humidity_percent": 77.2,
+        "solar_irradiance_Wm2": 541.2,
+        "cloud_cover_percent": 53.0
+    },
+    {
+        "timestamp": "2025-05-29T14:00:00",
+        "temperature_C": 29.5,
+        "humidity_percent": 83.1,
+        "solar_irradiance_Wm2": 572.6,
+        "cloud_cover_percent": 33.3
+    },
+    {
+        "timestamp": "2025-05-29T15:00:00",
+        "temperature_C": 29.3,
+        "humidity_percent": 88.2,
+        "solar_irradiance_Wm2": 548.0,
+        "cloud_cover_percent": 91.8
+    },
+    {
+        "timestamp": "2025-05-29T16:00:00",
+        "temperature_C": 31.4,
+        "humidity_percent": 88.6,
+        "solar_irradiance_Wm2": 507.4,
+        "cloud_cover_percent": 17.8
+    },
+    {
+        "timestamp": "2025-05-29T17:00:00",
+        "temperature_C": 30.9,
+        "humidity_percent": 74.2,
+        "solar_irradiance_Wm2": 516.6,
+        "cloud_cover_percent": 53.7
+    },
+    {
+        "timestamp": "2025-05-29T18:00:00",
+        "temperature_C": 29.3,
+        "humidity_percent": 78.3,
+        "solar_irradiance_Wm2": 650.3,
+        "cloud_cover_percent": 90.5
+    },
+    {
+        "timestamp": "2025-05-29T19:00:00",
+        "temperature_C": 32.3,
+        "humidity_percent": 82.8,
+        "solar_irradiance_Wm2": 238.2,
+        "cloud_cover_percent": 50.1
+    },
+    {
+        "timestamp": "2025-05-29T20:00:00",
+        "temperature_C": 27.8,
+        "humidity_percent": 77.5,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 46.2
+    },
+    {
+        "timestamp": "2025-05-29T21:00:00",
+        "temperature_C": 31.2,
+        "humidity_percent": 96.1,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 42.9
+    },
+    {
+        "timestamp": "2025-05-29T22:00:00",
+        "temperature_C": 31.2,
+        "humidity_percent": 84.9,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 46.4
+    },
+    {
+        "timestamp": "2025-05-29T23:00:00",
+        "temperature_C": 29.4,
+        "humidity_percent": 87.3,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 77.5
+    },
+    {
+        "timestamp": "2025-05-30T00:00:00",
+        "temperature_C": 30.7,
+        "humidity_percent": 86.6,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 5.8
+    },
+    {
+        "timestamp": "2025-05-30T01:00:00",
+        "temperature_C": 27.5,
+        "humidity_percent": 91.7,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 80.7
+    },
+    {
+        "timestamp": "2025-05-30T02:00:00",
+        "temperature_C": 31.8,
+        "humidity_percent": 81.8,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 21.5
+    },
+    {
+        "timestamp": "2025-05-30T03:00:00",
+        "temperature_C": 29.6,
+        "humidity_percent": 67.0,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 44.7
+    },
+    {
+        "timestamp": "2025-05-30T04:00:00",
+        "temperature_C": 29.0,
+        "humidity_percent": 84.0,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 41.4
+    },
+    {
+        "timestamp": "2025-05-30T05:00:00",
+        "temperature_C": 32.1,
+        "humidity_percent": 73.5,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 61.8
+    },
+    {
+        "timestamp": "2025-05-30T06:00:00",
+        "temperature_C": 28.6,
+        "humidity_percent": 74.7,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 18.0
+    },
+    {
+        "timestamp": "2025-05-30T07:00:00",
+        "temperature_C": 27.2,
+        "humidity_percent": 85.9,
+        "solar_irradiance_Wm2": 199.9,
+        "cloud_cover_percent": 59.2
+    },
+    {
+        "timestamp": "2025-05-30T08:00:00",
+        "temperature_C": 26.9,
+        "humidity_percent": 92.4,
+        "solar_irradiance_Wm2": 360.1,
+        "cloud_cover_percent": 90.5
+    },
+    {
+        "timestamp": "2025-05-30T09:00:00",
+        "temperature_C": 31.2,
+        "humidity_percent": 80.2,
+        "solar_irradiance_Wm2": 625.0,
+        "cloud_cover_percent": 22.7
+    },
+    {
+        "timestamp": "2025-05-30T10:00:00",
+        "temperature_C": 27.4,
+        "humidity_percent": 83.1,
+        "solar_irradiance_Wm2": 528.4,
+        "cloud_cover_percent": 53.8
+    },
+    {
+        "timestamp": "2025-05-30T11:00:00",
+        "temperature_C": 33.5,
+        "humidity_percent": 97.0,
+        "solar_irradiance_Wm2": 339.9,
+        "cloud_cover_percent": 36.8
+    },
+    {
+        "timestamp": "2025-05-30T12:00:00",
+        "temperature_C": 25.8,
+        "humidity_percent": 82.4,
+        "solar_irradiance_Wm2": 349.4,
+        "cloud_cover_percent": 58.5
+    },
+    {
+        "timestamp": "2025-05-30T13:00:00",
+        "temperature_C": 33.4,
+        "humidity_percent": 100.0,
+        "solar_irradiance_Wm2": 245.1,
+        "cloud_cover_percent": 50.4
+    },
+    {
+        "timestamp": "2025-05-30T14:00:00",
+        "temperature_C": 30.4,
+        "humidity_percent": 85.7,
+        "solar_irradiance_Wm2": 480.0,
+        "cloud_cover_percent": 37.2
+    },
+    {
+        "timestamp": "2025-05-30T15:00:00",
+        "temperature_C": 29.8,
+        "humidity_percent": 62.4,
+        "solar_irradiance_Wm2": 378.7,
+        "cloud_cover_percent": 59.8
+    },
+    {
+        "timestamp": "2025-05-30T16:00:00",
+        "temperature_C": 28.9,
+        "humidity_percent": 87.5,
+        "solar_irradiance_Wm2": 287.2,
+        "cloud_cover_percent": 86.1
+    },
+    {
+        "timestamp": "2025-05-30T17:00:00",
+        "temperature_C": 30.8,
+        "humidity_percent": 83.8,
+        "solar_irradiance_Wm2": 125.5,
+        "cloud_cover_percent": 46.2
+    },
+    {
+        "timestamp": "2025-05-30T18:00:00",
+        "temperature_C": 29.9,
+        "humidity_percent": 92.9,
+        "solar_irradiance_Wm2": 219.4,
+        "cloud_cover_percent": 64.4
+    },
+    {
+        "timestamp": "2025-05-30T19:00:00",
+        "temperature_C": 32.2,
+        "humidity_percent": 86.7,
+        "solar_irradiance_Wm2": 279.2,
+        "cloud_cover_percent": 24.1
+    },
+    {
+        "timestamp": "2025-05-30T20:00:00",
+        "temperature_C": 30.2,
+        "humidity_percent": 78.6,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 30.9
+    },
+    {
+        "timestamp": "2025-05-30T21:00:00",
+        "temperature_C": 30.3,
+        "humidity_percent": 67.8,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 59.4
+    },
+    {
+        "timestamp": "2025-05-30T22:00:00",
+        "temperature_C": 29.3,
+        "humidity_percent": 77.9,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 79.7
+    },
+    {
+        "timestamp": "2025-05-30T23:00:00",
+        "temperature_C": 29.9,
+        "humidity_percent": 71.5,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 57.1
+    },
+    {
+        "timestamp": "2025-05-31T00:00:00",
+        "temperature_C": 30.6,
+        "humidity_percent": 74.2,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 43.7
+    },
+    {
+        "timestamp": "2025-05-31T01:00:00",
+        "temperature_C": 26.6,
+        "humidity_percent": 85.9,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 50.0
+    },
+    {
+        "timestamp": "2025-05-31T02:00:00",
+        "temperature_C": 27.3,
+        "humidity_percent": 96.7,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 25.0
+    },
+    {
+        "timestamp": "2025-05-31T03:00:00",
+        "temperature_C": 31.5,
+        "humidity_percent": 83.9,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 62.1
+    },
+    {
+        "timestamp": "2025-05-31T04:00:00",
+        "temperature_C": 30.3,
+        "humidity_percent": 68.0,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 67.6
+    },
+    {
+        "timestamp": "2025-05-31T05:00:00",
+        "temperature_C": 29.6,
+        "humidity_percent": 84.4,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 41.0
+    },
+    {
+        "timestamp": "2025-05-31T06:00:00",
+        "temperature_C": 30.0,
+        "humidity_percent": 92.0,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 40.6
+    },
+    {
+        "timestamp": "2025-05-31T07:00:00",
+        "temperature_C": 30.7,
+        "humidity_percent": 73.9,
+        "solar_irradiance_Wm2": 397.7,
+        "cloud_cover_percent": 55.3
+    },
+    {
+        "timestamp": "2025-05-31T08:00:00",
+        "temperature_C": 28.9,
+        "humidity_percent": 78.7,
+        "solar_irradiance_Wm2": 183.0,
+        "cloud_cover_percent": 41.3
+    },
+    {
+        "timestamp": "2025-05-31T09:00:00",
+        "temperature_C": 28.4,
+        "humidity_percent": 80.1,
+        "solar_irradiance_Wm2": 370.0,
+        "cloud_cover_percent": 48.7
+    },
+    {
+        "timestamp": "2025-05-31T10:00:00",
+        "temperature_C": 30.4,
+        "humidity_percent": 72.2,
+        "solar_irradiance_Wm2": 517.6,
+        "cloud_cover_percent": 92.0
+    },
+    {
+        "timestamp": "2025-05-31T11:00:00",
+        "temperature_C": 28.0,
+        "humidity_percent": 86.5,
+        "solar_irradiance_Wm2": 139.7,
+        "cloud_cover_percent": 45.1
+    },
+    {
+        "timestamp": "2025-05-31T12:00:00",
+        "temperature_C": 30.8,
+        "humidity_percent": 78.8,
+        "solar_irradiance_Wm2": 248.7,
+        "cloud_cover_percent": 42.8
+    },
+    {
+        "timestamp": "2025-05-31T13:00:00",
+        "temperature_C": 26.6,
+        "humidity_percent": 84.2,
+        "solar_irradiance_Wm2": 389.1,
+        "cloud_cover_percent": 37.0
+    },
+    {
+        "timestamp": "2025-05-31T14:00:00",
+        "temperature_C": 32.1,
+        "humidity_percent": 71.1,
+        "solar_irradiance_Wm2": 365.3,
+        "cloud_cover_percent": 64.9
+    },
+    {
+        "timestamp": "2025-05-31T15:00:00",
+        "temperature_C": 30.9,
+        "humidity_percent": 75.6,
+        "solar_irradiance_Wm2": 270.1,
+        "cloud_cover_percent": 46.4
+    },
+    {
+        "timestamp": "2025-05-31T16:00:00",
+        "temperature_C": 30.5,
+        "humidity_percent": 87.2,
+        "solar_irradiance_Wm2": 256.6,
+        "cloud_cover_percent": 37.0
+    },
+    {
+        "timestamp": "2025-05-31T17:00:00",
+        "temperature_C": 32.0,
+        "humidity_percent": 76.3,
+        "solar_irradiance_Wm2": 345.4,
+        "cloud_cover_percent": 76.4
+    },
+    {
+        "timestamp": "2025-05-31T18:00:00",
+        "temperature_C": 33.3,
+        "humidity_percent": 97.3,
+        "solar_irradiance_Wm2": 264.8,
+        "cloud_cover_percent": 78.4
+    },
+    {
+        "timestamp": "2025-05-31T19:00:00",
+        "temperature_C": 32.0,
+        "humidity_percent": 76.0,
+        "solar_irradiance_Wm2": 108.6,
+        "cloud_cover_percent": 38.0
+    },
+    {
+        "timestamp": "2025-05-31T20:00:00",
+        "temperature_C": 26.3,
+        "humidity_percent": 82.2,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 12.7
+    },
+    {
+        "timestamp": "2025-05-31T21:00:00",
+        "temperature_C": 27.4,
+        "humidity_percent": 89.3,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 70.2
+    },
+    {
+        "timestamp": "2025-05-31T22:00:00",
+        "temperature_C": 28.8,
+        "humidity_percent": 65.8,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 36.3
+    },
+    {
+        "timestamp": "2025-05-31T23:00:00",
+        "temperature_C": 30.1,
+        "humidity_percent": 62.4,
+        "solar_irradiance_Wm2": 0.0,
+        "cloud_cover_percent": 65.8
+    }
+]
