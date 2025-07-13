@@ -1,0 +1,36 @@
+[
+  {
+    "@id": "dtmi:sdt:SystemDigitalTwin;1",
+    "@type": "Interface",
+    "displayName": "System Digital Twin",
+    "contents": [
+      {
+        "@type": "Property",
+        "name": "powerOutput",
+        "schema": "double"
+      },
+      {
+        "@type": "Property",
+        "name": "panelTemp",
+        "schema": "double"
+      },
+      {
+        "@type": "Property",
+        "name": "status",
+        "schema": "string"
+      },
+      {
+        "@type": "Relationship",
+        "name": "provides",
+        "target": "dtmi:example:ValueDigitalTwin;1"
+      },
+      {
+        "@type": "Relationship",
+        "name": "affectedBy",
+        "target": "dtmi:example:EnvironmentDigitalTwin;1"
+      }
+    ],
+    "@context": "dtmi:dtdl:context;2"
+  }
+] 
+  
