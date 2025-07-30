@@ -1,0 +1,31 @@
+{
+  "@context": "dtmi:dtdl:context;2",
+  "@id": "dtmi:org:sit_solar:ValueDigitalTwin;1",
+  "@type": "Interface",
+  "displayName": "Value Digital Twin - SIT Solar Plant",
+  "contents": [
+    {"@type": "Property", "name": "initialInvestment", "displayName": "Initial Investment (SGD)", "schema": "double", "writable": true},
+    {"@type": "Property", "name": "gridEmissionFactor", "displayName": "Grid Emission Factor (kg CO2/kWh)", "schema": "double", "writable": true},
+    {"@type": "Property", "name": "source_energyOutput", "displayName": "Source: Energy Output (kWh)", "schema": "double", "writable": true},
+    {"@type": "Property", "name": "source_marketPrice", "displayName": "Source: Market Price (SGD/kWh)", "schema": "double", "writable": true},
+    {"@type": "Property", "name": "source_solarIrradiance", "displayName": "Source: Solar Irradiance (W/m²)", "schema": "double", "writable": true},
+    
+    {
+      "@type": "Property",
+      "name": "last_calculated_daily_revenue", "displayName": "Last Calculated Daily Revenue (SGD)", "schema": "double", "writable": true
+    },
+    {
+      "@type": "Property",
+      "name": "calculated_carbon_saved", "displayName": "Calculated Daily Carbon Saved (kg)", "schema": "double", "writable": true
+    },
+    
+    {"@type": "Property", "name": "esgScore", "displayName": "ESG Score", "schema": "double", "writable": true},
+    {"@type": "Property", "name": "returnOnInvestment", "displayName": "Return on Investment (%)", "schema": "double", "writable": true},
+    {"@type": "Property", "name": "cumulativeRevenue", "displayName": "Cumulative Revenue (SGD)", "schema": "double", "writable": true},
+    {"@type": "Property", "name": "cumulativeCarbonSaved", "displayName": "Cumulative Carbon Saved (kg)", "schema": "double", "writable": true},
+    
+    {"@type": "Relationship", "name": "linked_to_system_twin", "target": "dtmi:org:sit_solar:SystemDigitalTwin;1"},
+    {"@type": "Relationship", "name": "influenced_by_market_twin", "target": "dtmi:org:sit_solar:MarketDigitalTwin;1"},
+    {"@type": "Relationship", "name": "connected_to_environment", "target": "dtmi:org:sit_solar:EnvironmentDigitalTwin;1"}
+  ]
+}
