@@ -1,0 +1,31 @@
+{
+  "@context": "dtmi:dtdl:context;2",
+  "@id": "dtmi:org:sit_solar:MarketDigitalTwin;1",
+  "@type": "Interface",
+  "displayName": "Market Digital Twin",
+  "contents": [
+    {
+      "@type": "Property",
+      "name": "marketPrice",
+      "schema": "double",
+      "writable": true
+    },
+    {
+      "@type": "Property",
+      "name": "demandLevel",
+      "schema": "double",
+      "writable": true
+    },
+    {
+      "@type": "Property",
+      "name": "policyFlag",
+      "schema": "string",
+      "writable": true
+    },
+    {
+      "@type": "Relationship",
+      "name": "impact",
+      "target": "dtmi:org:sit_solar:ValueDigitalTwin;1"
+    }
+  ]
+}
