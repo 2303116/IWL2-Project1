@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "dtmi:dtdl:context;2",
+    "@id": "dtmi:org:sit_solar:SystemDigitalTwin;1",
+    "@type": "Interface",
+    "displayName": "System Digital Twin",
+    "contents": [
+      {
+        "@type": "Property",
+        "name": "powerOutput",
+        "schema": "double"
+      },
+      {
+        "@type": "Property",
+        "name": "panelTemp",
+        "schema": "double"
+      },
+      {
+        "@type": "Property",
+        "name": "status",
+        "schema": "string"
+      },
+      {
+        "@type": "Relationship",
+        "name": "provides",
+        "target": "dtmi:org:sit_solar:ValueDigitalTwin;1"
+      },
+      {
+        "@type": "Relationship",
+        "name": "affectedBy",
+        "target": "dtmi:org:sit_solar:EnvironmentDigitalTwin;1"
+      }
+    ]
+  }
+] 
+  
