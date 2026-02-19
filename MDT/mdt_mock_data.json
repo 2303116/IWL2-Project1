@@ -1,0 +1,146 @@
+[
+  {
+    "timestamp": "2025-06-17T00:00:00",
+    "price_sgd_per_kwh": 0.143,
+    "demand_mw": 58.12,
+    "policy_flag": "None"
+  },
+  {
+    "timestamp": "2025-06-17T01:00:00",
+    "price_sgd_per_kwh": 0.173,
+    "demand_mw": 54.90,
+    "policy_flag": "None"
+  },
+  {
+    "timestamp": "2025-06-17T02:00:00",
+    "price_sgd_per_kwh": 0.125,
+    "demand_mw": 52.45,
+    "policy_flag": "Carbon Tax"
+  },
+  {
+    "timestamp": "2025-06-17T03:00:00",
+    "price_sgd_per_kwh": 0.197,
+    "demand_mw": 51.87,
+    "policy_flag": "None"
+  },
+  {
+    "timestamp": "2025-06-17T04:00:00",
+    "price_sgd_per_kwh": 0.138,
+    "demand_mw": 52.94,
+    "policy_flag": "Incentive"
+  },
+  {
+    "timestamp": "2025-06-17T05:00:00",
+    "price_sgd_per_kwh": 0.153,
+    "demand_mw": 55.10,
+    "policy_flag": "None"
+  },
+  {
+    "timestamp": "2025-06-17T06:00:00",
+    "price_sgd_per_kwh": 0.210,
+    "demand_mw": 62.42,
+    "policy_flag": "None"
+  },
+  {
+    "timestamp": "2025-06-17T07:00:00",
+    "price_sgd_per_kwh": 0.231,
+    "demand_mw": 70.11,
+    "policy_flag": "Carbon Tax"
+  },
+  {
+    "timestamp": "2025-06-17T08:00:00",
+    "price_sgd_per_kwh": 0.280,
+    "demand_mw": 82.56,
+    "policy_flag": "None"
+  },
+  {
+    "timestamp": "2025-06-17T09:00:00",
+    "price_sgd_per_kwh": 0.322,
+    "demand_mw": 92.30,
+    "policy_flag": "None"
+  },
+  {
+    "timestamp": "2025-06-17T10:00:00",
+    "price_sgd_per_kwh": 0.315,
+    "demand_mw": 101.44,
+    "policy_flag": "None"
+  },
+  {
+    "timestamp": "2025-06-17T11:00:00",
+    "price_sgd_per_kwh": 0.355,
+    "demand_mw": 107.75,
+    "policy_flag": "Carbon Tax"
+  },
+  {
+    "timestamp": "2025-06-17T12:00:00",
+    "price_sgd_per_kwh": 0.377,
+    "demand_mw": 112.12,
+    "policy_flag": "None"
+  },
+  {
+    "timestamp": "2025-06-17T13:00:00",
+    "price_sgd_per_kwh": 0.352,
+    "demand_mw": 113.87,
+    "policy_flag": "None"
+  },
+  {
+    "timestamp": "2025-06-17T14:00:00",
+    "price_sgd_per_kwh": 0.334,
+    "demand_mw": 114.00,
+    "policy_flag": "None"
+  },
+  {
+    "timestamp": "2025-06-17T15:00:00",
+    "price_sgd_per_kwh": 0.316,
+    "demand_mw": 111.85,
+    "policy_flag": "None"
+  },
+  {
+    "timestamp": "2025-06-17T16:00:00",
+    "price_sgd_per_kwh": 0.305,
+    "demand_mw": 108.55,
+    "policy_flag": "Carbon Tax"
+  },
+  {
+    "timestamp": "2025-06-17T17:00:00",
+    "price_sgd_per_kwh": 0.280,
+    "demand_mw": 104.20,
+    "policy_flag": "None"
+  },
+  {
+    "timestamp": "2025-06-17T18:00:00",
+    "price_sgd_per_kwh": 0.255,
+    "demand_mw": 95.00,
+    "policy_flag": "None"
+  },
+  {
+    "timestamp": "2025-06-17T19:00:00",
+    "price_sgd_per_kwh": 0.230,
+    "demand_mw": 85.15,
+    "policy_flag": "Incentive"
+  },
+  {
+    "timestamp": "2025-06-17T20:00:00",
+    "price_sgd_per_kwh": 0.190,
+    "demand_mw": 75.33,
+    "policy_flag": "None"
+  },
+  {
+    "timestamp": "2025-06-17T21:00:00",
+    "price_sgd_per_kwh": 0.170,
+    "demand_mw": 66.80,
+    "policy_flag": "None"
+  },
+  {
+    "timestamp": "2025-06-17T22:00:00",
+    "price_sgd_per_kwh": 0.150,
+    "demand_mw": 60.21,
+    "policy_flag": "None"
+  },
+  {
+    "timestamp": "2025-06-17T23:00:00",
+    "price_sgd_per_kwh": 0.130,
+    "demand_mw": 55.45,
+    "policy_flag": "None"
+  }
+]
